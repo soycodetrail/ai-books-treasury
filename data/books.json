@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T07:21:09.402Z",
+  "updatedAt": "2026-08-31T08:19:50.676Z",
   "items": [
     {
       "name": "深入理解 AI Agent：设计原理与工程实践",
@@ -3708,6 +3708,2166 @@
       "bg": "",
       "tool": "英文",
       "hot": 91
+    },
+    {
+      "name": "Equipping agents for the real world with Agent Skills",
+      "desc": "Anthropic 官方 Agent Skills 工程解析：如何用可组合的技能包扩展 Agent 能力，Skill 设计思想的权威出处。",
+      "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+      "category": "agent",
+      "tags": [
+        "Anthropic 官方",
+        "Agent Skills",
+        "工程设计",
+        "英文",
+        "进阶",
+        "Anthropic"
+      ],
+      "icon": "🧰",
+      "bg": "",
+      "tool": "英文",
+      "hot": 88
+    },
+    {
+      "name": "Effective context engineering for AI agents",
+      "desc": "Anthropic 官方上下文工程长文：把「提示工程」升级为系统级的上下文管理方法论，Agent 时代最重要的一篇工程文章之一。",
+      "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+      "category": "agent",
+      "tags": [
+        "上下文工程",
+        "Anthropic 官方",
+        "方法论",
+        "英文",
+        "高级",
+        "Anthropic"
+      ],
+      "icon": "🧠",
+      "bg": "",
+      "tool": "英文",
+      "hot": 92
+    },
+    {
+      "name": "Awesome MCP Servers",
+      "desc": "MCP 服务器生态第一索引（数万星）：数千个现成的 Model Context Protocol 服务器分类收录，给 Agent 装手脚的第一站。",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "category": "agent",
+      "tags": [
+        "MCP 生态",
+        "超高星标",
+        "第一索引",
+        "英文",
+        "入门",
+        "punkpeye 等社区维护"
+      ],
+      "icon": "🔌",
+      "bg": "",
+      "tool": "英文",
+      "hot": 90
+    },
+    {
+      "name": "Awesome AI Agents",
+      "desc": "AI Agent 框架与项目的权威清单：AutoGen、CrewAI、LangGraph 等数十个框架分类对比，选型前先看这里。",
+      "url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "category": "agent",
+      "tags": [
+        "框架清单",
+        "选型参考",
+        "社区维护",
+        "英文",
+        "入门",
+        "e2b-dev 社区维护"
+      ],
+      "icon": "🧭",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "A Survey on LLM-based Autonomous Agents",
+      "desc": "被引最多的 LLM Agent 综述之一：系统梳理 Agent 的构建、评估与应用全景，学术界对该领域最完整的地图。",
+      "url": "https://arxiv.org/abs/2308.11432",
+      "category": "agent",
+      "tags": [
+        "顶会综述",
+        "领域地图",
+        "高引论文",
+        "英文",
+        "高级",
+        "Fudan NLP 等"
+      ],
+      "icon": "🗺️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 86
+    },
+    {
+      "name": "Anthropic Prompt Engineering Interactive Tutorial",
+      "desc": "Anthropic 官方交互式提示工程教程：九章节可动手练习，从基础结构到链式调用与工具使用，业界最好的系统化提示课。",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "category": "llm",
+      "tags": [
+        "Anthropic 官方",
+        "交互练习",
+        "系统课程",
+        "英文",
+        "入门",
+        "Anthropic"
+      ],
+      "icon": "⌨️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 90
+    },
+    {
+      "name": "Learn Prompting",
+      "desc": "最早也最全面的免费提示工程开源课程：从零基础到高级技术，多语言版本含中文，GitHub 数万星。",
+      "url": "https://learnprompting.org",
+      "category": "llm",
+      "tags": [
+        "开源课程",
+        "多语言",
+        "从零到高阶",
+        "中英",
+        "入门",
+        "Learn Prompting 团队"
+      ],
+      "icon": "🎓",
+      "bg": "",
+      "tool": "中英",
+      "hot": 87
+    },
+    {
+      "name": "Brex's Prompt Engineering Guide",
+      "desc": "金融科技公司 Brex 内部指南开源版：面向生产环境的务实提示工程原则与陷阱清单，工程团队口口相传。",
+      "url": "https://github.com/brexhq/prompt-engineering",
+      "category": "llm",
+      "tags": [
+        "生产导向",
+        "内部开源",
+        "务实原则",
+        "英文",
+        "进阶",
+        "Brex AI 团队"
+      ],
+      "icon": "💼",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "Stanford CS25: Transformers United",
+      "desc": "斯坦福传奇研讨课：Transformer 领域开创者们亲述各自方向的前沿，从注意力起源到具身智能，免费的学术盛宴。",
+      "url": "https://web.stanford.edu/class/cs25/",
+      "category": "llm",
+      "tags": [
+        "开创者讲座",
+        "前沿全景",
+        "免费公开",
+        "英文",
+        "高级",
+        "Stanford University"
+      ],
+      "icon": "🎤",
+      "bg": "",
+      "tool": "英文",
+      "hot": 85
+    },
+    {
+      "name": "The Full Stack LLM Bootcamp",
+      "desc": "一天浓缩 LLM 应用工程全景的知名训练营讲义：从 Prompt 到 Ops，十二条主干讲座全部免费公开。",
+      "url": "https://fullstackdeeplearning.com/llm-bootcamp/",
+      "category": "llm",
+      "tags": [
+        "工程全景",
+        "免费公开",
+        "浓缩精华",
+        "英文",
+        "进阶",
+        "Full Stack Deep Learning"
+      ],
+      "icon": "🎒",
+      "bg": "",
+      "tool": "英文",
+      "hot": 83
+    },
+    {
+      "name": "Made With ML",
+      "desc": "数十万工程师学过的免费 MLOps / LLM 系统课：以生产部署为主线讲机器学习工程全流程，业界口碑极佳。",
+      "url": "https://madewithml.com",
+      "category": "llm",
+      "tags": [
+        "MLOps",
+        "生产主线",
+        "免费课程",
+        "英文",
+        "进阶",
+        "Goku Mohandas"
+      ],
+      "icon": "⚙️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "The Illustrated GPT-2",
+      "desc": "图解 GPT-2：与图解 Transformer 齐名的续作，把自回归生成的每一步可视化，理解 LLM 推理过程的最佳读物。",
+      "url": "https://jalammar.github.io/illustrated-gpt2/",
+      "category": "llm",
+      "tags": [
+        "图解系列",
+        "自回归",
+        "经典名篇",
+        "英文",
+        "进阶",
+        "Jay Alammar"
+      ],
+      "icon": "🖼️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 86
+    },
+    {
+      "name": "The Illustrated BERT",
+      "desc": "图解 BERT 与 ELMO：讲透双向编码与预训练-微调范式，NLP 预训练时代的入门必读图解。",
+      "url": "https://jalammar.github.io/illustrated-bert/",
+      "category": "llm",
+      "tags": [
+        "图解系列",
+        "预训练范式",
+        "经典名篇",
+        "英文",
+        "进阶",
+        "Jay Alammar"
+      ],
+      "icon": "🎨",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "Prompt Engineering Guide (OpenAI Docs)",
+      "desc": "OpenAI 官方提示工程指南：六条核心策略与战术拆解，配可复制示例，所有用 GPT 系模型的工程参照系。",
+      "url": "https://platform.openai.com/docs/guides/prompt-engineering",
+      "category": "llm",
+      "tags": [
+        "OpenAI 官方",
+        "策略战术",
+        "权威参照",
+        "英文",
+        "入门",
+        "OpenAI"
+      ],
+      "icon": "📘",
+      "bg": "",
+      "tool": "英文",
+      "hot": 88
+    },
+    {
+      "name": "HELM: Holistic Evaluation of Language Models",
+      "desc": "斯坦福基础模型研究中心的大模型评估框架：以透明、多维的指标体系评估主流模型，评估方法论的学术标杆。",
+      "url": "https://crfm.stanford.edu/helm/",
+      "category": "llm",
+      "tags": [
+        "模型评估",
+        "学术标杆",
+        "透明指标",
+        "英文",
+        "高级",
+        "Stanford CRFM"
+      ],
+      "icon": "📊",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "Practical Deep Learning for Coders",
+      "desc": "全球最著名的实战深度学习课程：从训练一个图像分类器开始自顶向下学习，配套 fastbook 全部免费，改变了无数人的职业轨迹。",
+      "url": "https://course.fast.ai",
+      "category": "dlml",
+      "tags": [
+        "fast.ai",
+        "自顶向下",
+        "免费课程",
+        "英文",
+        "入门",
+        "Jeremy Howard (fast.ai)"
+      ],
+      "icon": "⚡",
+      "bg": "",
+      "tool": "英文",
+      "hot": 93
+    },
+    {
+      "name": "Distill",
+      "desc": "深度学习交互式期刊的传奇：把论文做成可拖拽的交互可视化，《特征可视化》等名篇是领域的视觉圣经（已停刊，存档免费）。",
+      "url": "https://distill.pub",
+      "category": "dlml",
+      "tags": [
+        "交互式期刊",
+        "视觉圣经",
+        "存档免费",
+        "英文",
+        "高级",
+        "Distill 研究者社区"
+      ],
+      "icon": "💎",
+      "bg": "",
+      "tool": "英文",
+      "hot": 87
+    },
+    {
+      "name": "CS231n 课程笔记",
+      "desc": "计算机视觉第一课的官方笔记：卷积网络、反向传播到注意力机制，全球转载最多的深度学习讲义之一。",
+      "url": "https://cs231n.github.io",
+      "category": "dlml",
+      "tags": [
+        "斯坦福",
+        "CV 圣经",
+        "官方笔记",
+        "英文",
+        "进阶",
+        "Stanford / Fei-Fei Li 等"
+      ],
+      "icon": "👁️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 91
+    },
+    {
+      "name": "Understanding Machine Learning: From Theory to Algorithms",
+      "desc": "机器学习理论的最佳入门教材：PAC 学习、VC 维到 SVM 的严谨而友好的体系，作者官方提供全书免费 PDF。",
+      "url": "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf",
+      "category": "dlml",
+      "tags": [
+        "学习理论",
+        "免费 PDF",
+        "理论入门",
+        "英文",
+        "高级",
+        "Shai Ben-David & Shai Shalev-Shwartz"
+      ],
+      "icon": "📐",
+      "bg": "",
+      "tool": "英文",
+      "hot": 85
+    },
+    {
+      "name": "Foundations of Machine Learning",
+      "desc": "NYU 研究生级机器学习理论基础教材：官方免费 PDF，覆盖统计学习理论、核方法与在线学习。",
+      "url": "https://cs.nyu.edu/~mohri/mlbook/",
+      "category": "dlml",
+      "tags": [
+        "理论基础",
+        "免费 PDF",
+        "NYU 教材",
+        "英文",
+        "高级",
+        "Mehryar Mohri 等 (NYU)"
+      ],
+      "icon": "🏛️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 80
+    },
+    {
+      "name": "Kaggle Learn",
+      "desc": "Kaggle 官方免费微课程：Python、Pandas、机器学习、深度学习到时间序列，全部浏览器内动手实践，数据科学入门快车道。",
+      "url": "https://www.kaggle.com/learn",
+      "category": "dlml",
+      "tags": [
+        "Kaggle 官方",
+        "浏览器实操",
+        "免费",
+        "英文",
+        "入门",
+        "Kaggle (Google)"
+      ],
+      "icon": "🏁",
+      "bg": "",
+      "tool": "英文",
+      "hot": 86
+    },
+    {
+      "name": "Python Data Science Handbook",
+      "desc": "Python 数据科学的免费圣经：NumPy、Pandas、Matplotlib 与 scikit-learn 全栈手册，作者官方全文免费在线。",
+      "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+      "category": "dlml",
+      "tags": [
+        "数据科学",
+        "全文免费",
+        "Jupyter 版",
+        "英文",
+        "进阶",
+        "Jake VanderPlas"
+      ],
+      "icon": "🐼",
+      "bg": "",
+      "tool": "英文",
+      "hot": 89
+    },
+    {
+      "name": "A Whirlwind Tour of Python",
+      "desc": "为科研/数据人员写的 Python 快速通道：一百页讲完语言核心，官方免费，Handbook 的最佳前传。",
+      "url": "https://jakevdp.github.io/WhirlwindTourOfPython/",
+      "category": "dlml",
+      "tags": [
+        "快速入门",
+        "免费在线",
+        "百页精华",
+        "英文",
+        "入门",
+        "Jake VanderPlas"
+      ],
+      "icon": "🌪️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 78
+    },
+    {
+      "name": "Machine Learning System Design (Booklet)",
+      "desc": "ML 系统设计的免费小册子：面试与实战两用的设计模式梳理，作者官方开源，ML 系统设计题的标准准备材料。",
+      "url": "https://github.com/chiphuyen/machine-learning-systems-design",
+      "category": "dlml",
+      "tags": [
+        "系统设计",
+        "官方开源",
+        "面试必备",
+        "英文",
+        "高级",
+        "Chip Huyen"
+      ],
+      "icon": "🏗️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 81
+    },
+    {
+      "name": "Full Stack Deep Learning",
+      "desc": "最知名的「生产级深度学习」课程：覆盖项目管理、数据、建模、部署与监控全生命周期，历年课程全部免费公开。",
+      "url": "https://fullstackdeeplearning.com",
+      "category": "dlml",
+      "tags": [
+        "工程全周期",
+        "免费公开",
+        "生产导向",
+        "英文",
+        "高级",
+        "FSDL 团队 (UC Berkeley 等)"
+      ],
+      "icon": "🛠️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "LearnCpp.com",
+      "desc": "最好的免费 C++ 在线教程：从零到 C++20 系统覆盖，循序渐进+章末习题，社区公认的现代 C++ 入门标准。",
+      "url": "https://www.learncpp.com",
+      "category": "code",
+      "tags": [
+        "C++ 标准",
+        "现代教程",
+        "免费",
+        "英文",
+        "入门",
+        "LearnCpp 团队"
+      ],
+      "icon": "➕",
+      "bg": "",
+      "tool": "英文",
+      "hot": 90
+    },
+    {
+      "name": "Beej's Guide to C Programming",
+      "desc": "Beej 系列的 C 语言篇：与网络编程指南同款幽默与严谨，免费在线，C 语言入门的口碑之选。",
+      "url": "https://beej.us/guide/bgc/",
+      "category": "code",
+      "tags": [
+        "C 入门",
+        "幽默严谨",
+        "免费",
+        "英文",
+        "入门",
+        "Brian \"Beej\" Hall"
+      ],
+      "icon": "⚙️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 80
+    },
+    {
+      "name": "Rust by Example",
+      "desc": "Rust 官方可运行示例集：每个语言特性配一段能直接跑的代码，与 The Book 互补的官方学习路径。",
+      "url": "https://doc.rust-lang.org/rust-by-example/",
+      "category": "code",
+      "tags": [
+        "Rust 官方",
+        "可运行示例",
+        "免费",
+        "英文",
+        "入门",
+        "Rust 官方"
+      ],
+      "icon": "🦀",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "The Rustonomicon",
+      "desc": "Rust 官方「黑暗圣经」：Unsafe Rust 与底层未定义行为的世界，写系统级 Rust 的必读进阶书。",
+      "url": "https://doc.rust-lang.org/nomicon/",
+      "category": "code",
+      "tags": [
+        "Unsafe Rust",
+        "官方进阶",
+        "底层世界",
+        "英文",
+        "高级",
+        "Rust 官方"
+      ],
+      "icon": "☠️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 81
+    },
+    {
+      "name": "Go by Example",
+      "desc": "以带注释的示例程序学 Go 的标杆站点：每个语言特性一个可运行例子，Go 官方文档都推荐的入门方式。",
+      "url": "https://gobyexample.com",
+      "category": "code",
+      "tags": [
+        "示例驱动",
+        "官方推荐",
+        "免费",
+        "英文",
+        "入门",
+        "Mark McGranaghan"
+      ],
+      "icon": "🐹",
+      "bg": "",
+      "tool": "英文",
+      "hot": 87
+    },
+    {
+      "name": "Learn Go with Tests",
+      "desc": "用 TDD 学 Go 的开源名作：每个概念从写测试开始驱动实现，同时掌握 Go 与测试驱动开发，GitHub 数万星。",
+      "url": "https://quii.gitbook.io/learn-go-with-tests",
+      "category": "code",
+      "tags": [
+        "TDD",
+        "双技能",
+        "高星开源",
+        "英文",
+        "进阶",
+        "Quii"
+      ],
+      "icon": "✅",
+      "bg": "",
+      "tool": "英文",
+      "hot": 85
+    },
+    {
+      "name": "Effective Go",
+      "desc": "Go 官方「地道 Go 代码」指南：讲清语言设计背后的惯用法，每个 Go 工程师的必经读物。",
+      "url": "https://go.dev/doc/effective_go",
+      "category": "code",
+      "tags": [
+        "官方指南",
+        "惯用法",
+        "必经读物",
+        "英文",
+        "进阶",
+        "Go 官方"
+      ],
+      "icon": "📜",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "The Hitchhiker's Guide to Python",
+      "desc": "Python 最佳实践权威指南：由 Requests 作者发起、社区共同维护，讲「怎么写 Pythonic 的代码与项目」，免费在线。",
+      "url": "https://docs.python-guide.org",
+      "category": "code",
+      "tags": [
+        "最佳实践",
+        "Pythonic",
+        "免费在线",
+        "英文",
+        "进阶",
+        "Kenneth Reitz 等"
+      ],
+      "icon": "🌌",
+      "bg": "",
+      "tool": "英文",
+      "hot": 83
+    },
+    {
+      "name": "Invent Your Own Computer Games with Python",
+      "desc": "Sweigart 游戏系列开山作：通过亲手写游戏学 Python，从猜数字到 pygame，青少年与零基础的最爱，官方免费在线。",
+      "url": "https://inventwithpython.com/invent4thed/",
+      "category": "code",
+      "tags": [
+        "游戏化学习",
+        "零基础",
+        "免费在线",
+        "英文",
+        "入门",
+        "Al Sweigart"
+      ],
+      "icon": "🎮",
+      "bg": "",
+      "tool": "英文",
+      "hot": 78
+    },
+    {
+      "name": "Functional-Light JavaScript",
+      "desc": "YDKJS 作者的函数式编程开源书：不烧脑的「轻函数式」实践路线，平衡可读性与函数式威力，GitHub 全文免费。",
+      "url": "https://github.com/getify/Functional-Light-JS",
+      "category": "code",
+      "tags": [
+        "函数式",
+        "轻量务实",
+        "全文免费",
+        "英文",
+        "进阶",
+        "Kyle Simpson"
+      ],
+      "icon": "λ",
+      "bg": "",
+      "tool": "英文",
+      "hot": 80
+    },
+    {
+      "name": "React 官方教程 (Learn React)",
+      "desc": "重写后的 React 官方文档 Learn 章节：以「描述 UI、管理状态、逃生舱口」三段式重构了学习曲线，官方推荐的唯一起点。",
+      "url": "https://react.dev/learn",
+      "category": "code",
+      "tags": [
+        "React 官方",
+        "新文档",
+        "起点首选",
+        "英文",
+        "入门",
+        "Meta / React 团队"
+      ],
+      "icon": "⚛️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 89
+    },
+    {
+      "name": "SQLBolt",
+      "desc": "最受欢迎的交互式 SQL 教程：每课浏览器内直接写查询看结果，几小时掌握 SQL 基础，零门槛上手。",
+      "url": "https://sqlbolt.com",
+      "category": "code",
+      "tags": [
+        "交互式",
+        "几小时上手",
+        "免费",
+        "英文",
+        "入门",
+        "SQLBolt 团队"
+      ],
+      "icon": "🗃️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 85
+    },
+    {
+      "name": "Use The Index, Luke!",
+      "desc": "SQL 索引调优的免费权威书：讲透 B-Tree 索引原理与执行计划，性能工程视角的数据库必读，官方免费在线。",
+      "url": "https://use-the-index-luke.com",
+      "category": "code",
+      "tags": [
+        "索引调优",
+        "性能工程",
+        "免费在线",
+        "英文",
+        "高级",
+        "Markus Winand"
+      ],
+      "icon": "🚀",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "Ruby on Rails Tutorial",
+      "desc": "史上最著名的 Web 框架教程：从零做一个完整产品级应用，官方全文免费在线，Rails 与 Web 开发的双料经典。",
+      "url": "https://www.railstutorial.org/book",
+      "category": "code",
+      "tags": [
+        "Rails 经典",
+        "完整项目",
+        "免费全文",
+        "英文",
+        "进阶",
+        "Michael Hartl"
+      ],
+      "icon": "🛤️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 81
+    },
+    {
+      "name": "PHP: The Right Way",
+      "desc": "PHP 最佳实践的社区标准参考：现代 PHP 该怎么写、坑在哪，多语言版本含中文，官方免费。",
+      "url": "https://phptherightway.com",
+      "category": "code",
+      "tags": [
+        "最佳实践",
+        "社区标准",
+        "中文版",
+        "中英",
+        "进阶",
+        "Josh Lockhart 等社区"
+      ],
+      "icon": "🐘",
+      "bg": "",
+      "tool": "中英",
+      "hot": 79
+    },
+    {
+      "name": "Build Your Own Lisp",
+      "desc": "用 C 语言从零写一个 Lisp 解释器的免费书：一门语言+一个解释器双收获，极客圈口碑之作。",
+      "url": "https://www.buildyourownlisp.com",
+      "category": "code",
+      "tags": [
+        "C + Lisp",
+        "解释器实战",
+        "免费在线",
+        "英文",
+        "高级",
+        "Zed A. Shaw"
+      ],
+      "icon": "🌳",
+      "bg": "",
+      "tool": "英文",
+      "hot": 78
+    },
+    {
+      "name": "Distributed Systems (3rd ed.)",
+      "desc": "Tanenbaum 系分布式系统教材：作者官方免费提供全书 PDF，覆盖架构、进程、通信、一致性与容错。",
+      "url": "https://www.distributed-systems.net",
+      "category": "cs",
+      "tags": [
+        "分布式系统",
+        "免费 PDF",
+        "Tanenbaum",
+        "英文",
+        "高级",
+        "Maarten van Steen & Andrew Tanenbaum"
+      ],
+      "icon": "🌐",
+      "bg": "",
+      "tool": "英文",
+      "hot": 85
+    },
+    {
+      "name": "Readings in Database Systems (红宝书)",
+      "desc": "数据库教父 Stonebraker 主编的「红宝书」：精选数据库领域最关键论文并附评述，官方免费，进阶数据库内核的地图。",
+      "url": "http://www.redbook.io",
+      "category": "cs",
+      "tags": [
+        "数据库教父",
+        "论文地图",
+        "免费在线",
+        "英文",
+        "高级",
+        "Michael Stonebraker 等 (MIT)"
+      ],
+      "icon": "📕",
+      "bg": "",
+      "tool": "英文",
+      "hot": 83
+    },
+    {
+      "name": "CMU 15-445: Database Systems",
+      "desc": "全球最受欢迎的数据库系统课程：BusTub 实验框架动手造数据库内核，历年视频与讲义全部公开。",
+      "url": "https://15445.courses.cs.cmu.edu",
+      "category": "cs",
+      "tags": [
+        "CMU 名课",
+        "动手造内核",
+        "全公开",
+        "英文",
+        "高级",
+        "Andy Pavlo (CMU)"
+      ],
+      "icon": "🗄️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 89
+    },
+    {
+      "name": "MIT 6.824: Distributed Systems",
+      "desc": "分布式系统第一公开课：以 Go 实现 Raft 等经典系统为核心实验，视频与实验全部免费，后端/基础设施方向必修。",
+      "url": "https://pdos.csail.mit.edu/6.824/",
+      "category": "cs",
+      "tags": [
+        "MIT 名课",
+        "Raft 实验",
+        "全公开",
+        "英文",
+        "高级",
+        "MIT PDOS"
+      ],
+      "icon": "🔗",
+      "bg": "",
+      "tool": "英文",
+      "hot": 90
+    },
+    {
+      "name": "Mastering Bitcoin (开源版)",
+      "desc": "最权威的比特币技术书，作者开放全部内容：从密钥、交易到共识网络讲透区块链底层，GitHub 全书免费。",
+      "url": "https://github.com/bitcoinbook/bitcoinbook",
+      "category": "cs",
+      "tags": [
+        "区块链底层",
+        "全书开放",
+        "权威之作",
+        "英文",
+        "进阶",
+        "Andreas M. Antonopoulos"
+      ],
+      "icon": "₿",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "Crypto 101",
+      "desc": "面向程序员的免费密码学入门书：从 XOR 到 TLS，用例驱动讲清现代密码学构件，官方免费。",
+      "url": "https://www.crypto101.io",
+      "category": "cs",
+      "tags": [
+        "密码学入门",
+        "用例驱动",
+        "免费",
+        "英文",
+        "进阶",
+        "Laurens Van Houtven"
+      ],
+      "icon": "🔐",
+      "bg": "",
+      "tool": "英文",
+      "hot": 78
+    },
+    {
+      "name": "A Graduate Course in Applied Cryptography",
+      "desc": "斯坦福密码学双雄合著的研究生教材：官方免费草稿全文，从对称加密到公钥协议的严谨体系，Boneh 名课配套。",
+      "url": "https://crypto.stanford.edu/~dabo/cryptobook/",
+      "category": "cs",
+      "tags": [
+        "斯坦福双雄",
+        "免费全文",
+        "研究生级",
+        "英文",
+        "高级",
+        "Dan Boneh & Victor Shoup (Stanford)"
+      ],
+      "icon": "🎓",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "The Cryptopals Crypto Challenges",
+      "desc": "密码学攻防挑战的天花板：亲手攻破历史加密方案来理解「为什么不能自己发明密码学」，全行业公认的最强实践路径。",
+      "url": "https://cryptopals.com",
+      "category": "cs",
+      "tags": [
+        "攻防挑战",
+        "业界公认",
+        "实践为王",
+        "英文",
+        "高级",
+        "Matasano / NCC Group"
+      ],
+      "icon": "🧩",
+      "bg": "",
+      "tool": "英文",
+      "hot": 85
+    },
+    {
+      "name": "Ray Tracing in One Weekend",
+      "desc": "全球最流行的图形学入门：一个周末从零写出路径追踪渲染器，三部曲官方全部免费在线，效果惊艳。",
+      "url": "https://raytracing.github.io",
+      "category": "cs",
+      "tags": [
+        "图形学入门",
+        "一个周末",
+        "三部曲免费",
+        "英文",
+        "进阶",
+        "Peter Shirley 等"
+      ],
+      "icon": "📸",
+      "bg": "",
+      "tool": "英文",
+      "hot": 88
+    },
+    {
+      "name": "LearnOpenGL",
+      "desc": "现代 OpenGL / 图形编程第一教程：从三角形到 PBR 渲染管线，代码与图解质量业界顶级，官方免费并有多语言翻译。",
+      "url": "https://learnopengl.com",
+      "category": "cs",
+      "tags": [
+        "图形学第一教程",
+        "PBR 管线",
+        "多语言",
+        "中英",
+        "进阶",
+        "Joey de Vries"
+      ],
+      "icon": "🖼️",
+      "bg": "",
+      "tool": "中英",
+      "hot": 90
+    },
+    {
+      "name": "Quantum Computing for the Very Curious",
+      "desc": "全球第一本「记忆增强」量子计算书：用间隔重复卡片内嵌文中边读边记，Nielsen 出品的实验性杰作，免费在线。",
+      "url": "https://quantum.country",
+      "category": "cs",
+      "tags": [
+        "量子计算",
+        "记忆增强",
+        "实验杰作",
+        "英文",
+        "进阶",
+        "Andy Matuschak & Michael Nielsen"
+      ],
+      "icon": "🔮",
+      "bg": "",
+      "tool": "英文",
+      "hot": 80
+    },
+    {
+      "name": "Practical Foundations for Programming Languages",
+      "desc": "编程语言理论的现代标准教材：CMU 教授官方免费提供全书 PDF，类型系统与语言设计理论的权威体系。",
+      "url": "https://www.cs.cmu.edu/~rwh/plbook/book.pdf",
+      "category": "cs",
+      "tags": [
+        "PLT 权威",
+        "免费 PDF",
+        "CMU 教材",
+        "英文",
+        "高级",
+        "Robert Harper (CMU)"
+      ],
+      "icon": "🧱",
+      "bg": "",
+      "tool": "英文",
+      "hot": 79
+    },
+    {
+      "name": "Software Foundations",
+      "desc": "用 Coq 证明程序正确性的著名系列教材：逻辑、归纳、PLT 三卷全部免费在线，形式化方法的标准入门。",
+      "url": "https://softwarefoundations.cis.upenn.edu",
+      "category": "cs",
+      "tags": [
+        "形式化验证",
+        "Coq 实战",
+        "免费在线",
+        "英文",
+        "高级",
+        "UPenn / 普林斯顿等"
+      ],
+      "icon": "✒️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 81
+    },
+    {
+      "name": "Category Theory for Programmers",
+      "desc": "程序员视角范畴理论的传奇开源书：把抽象代数讲成编程直觉，配视频课程，GitHub 全文免费，函数式进阶必读。",
+      "url": "https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/",
+      "category": "cs",
+      "tags": [
+        "范畴理论",
+        "程序员视角",
+        "开源书",
+        "英文",
+        "高级",
+        "Bartosz Milewski"
+      ],
+      "icon": "🔗",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "Joel on Software",
+      "desc": "Stack Overflow 联合创始人的经典文集：约 Joel 谈软件、测试与围篱悖论篇篇经典，免费在线，软件行业写作的标杆。",
+      "url": "https://www.joelonsoftware.com",
+      "category": "eng",
+      "tags": [
+        "行业经典文集",
+        "免费在线",
+        "写作标杆",
+        "英文",
+        "进阶",
+        "Joel Spolsky"
+      ],
+      "icon": "✍️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "Paul Graham Essays",
+      "desc": "YC 创始人的全部文集免费公开：《Beating the Averages》《Do Things That Don't Scale》等创业与技术思想名篇的原始出处。",
+      "url": "https://www.paulgraham.com/articles.html",
+      "category": "eng",
+      "tags": [
+        "YC 创始人",
+        "思想名篇",
+        "全部免费",
+        "英文",
+        "进阶",
+        "Paul Graham (Y Combinator)"
+      ],
+      "icon": "💡",
+      "bg": "",
+      "tool": "英文",
+      "hot": 88
+    },
+    {
+      "name": "大教堂与集市 (The Cathedral and the Bazaar)",
+      "desc": "开源运动的理论纲领：「足够多的眼睛，所有的缺陷都很浅显」的出处，理解开源协作模式的元典，作者官网免费。",
+      "url": "https://www.catb.org/~esr/writings/cathedral-bazaar/",
+      "category": "eng",
+      "tags": [
+        "开源元典",
+        "Linus 定律",
+        "免费在线",
+        "英文",
+        "进阶",
+        "Eric S. Raymond"
+      ],
+      "icon": "⛪",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "The Art of UNIX Programming",
+      "desc": "UNIX 设计哲学的集大成之作：模块化、透明化与「机制与策略分离」等原则的系统阐述，作者官网免费全文。",
+      "url": "https://www.catb.org/~esr/writings/taoup/",
+      "category": "eng",
+      "tags": [
+        "UNIX 哲学",
+        "设计原则",
+        "免费全文",
+        "英文",
+        "高级",
+        "Eric S. Raymond"
+      ],
+      "icon": "🐚",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "StaffEng",
+      "desc": "百余名 Staff/Principal 工程师的职业路径访谈集：技术深潜还是横向扩张的亲历者答案，免费在线，工程师进阶的路线图。",
+      "url": "https://staffeng.com",
+      "category": "eng",
+      "tags": [
+        "职业进阶",
+        "百人访谈",
+        "免费在线",
+        "英文",
+        "高级",
+        "Will Larson"
+      ],
+      "icon": "🪜",
+      "bg": "",
+      "tool": "英文",
+      "hot": 81
+    },
+    {
+      "name": "Active Calculus",
+      "desc": "「做中学」微积分开源教材：以活动和预习任务驱动的现代教学设计，官方免费，美国百余所高校采用。",
+      "url": "https://activecalculus.org",
+      "category": "math",
+      "tags": [
+        "主动学习",
+        "开源教材",
+        "百校采用",
+        "英文",
+        "入门",
+        "Matt Boelkins (GVSU)"
+      ],
+      "icon": "📈",
+      "bg": "",
+      "tool": "英文",
+      "hot": 80
+    },
+    {
+      "name": "Precalculus",
+      "desc": "口碑极高的开源预科数学教材：代数与三角的严谨准备，官方免费 PDF，被评价为「预科数学的最佳起点」。",
+      "url": "https://www.stitz-zeager.com",
+      "category": "math",
+      "tags": [
+        "预科数学",
+        "免费 PDF",
+        "严谨友好",
+        "英文",
+        "入门",
+        "Carl Stitz & Jeff Zeager"
+      ],
+      "icon": "🧮",
+      "bg": "",
+      "tool": "英文",
+      "hot": 76
+    },
+    {
+      "name": "Linear Algebra Done Wrong",
+      "desc": "与《Done Right》齐名的对作：从数学系视角讲线性代数，作者官方免费提供全书，书名即彩蛋。",
+      "url": "https://www.math.brown.edu/~treil/papers/LADW/LADW.html",
+      "category": "math",
+      "tags": [
+        "数学系视角",
+        "免费全书",
+        "书名彩蛋",
+        "英文",
+        "高级",
+        "Sergei Treil (Brown)"
+      ],
+      "icon": "🙃",
+      "bg": "",
+      "tool": "英文",
+      "hot": 81
+    },
+    {
+      "name": "Notes on Diffy Qs",
+      "desc": "最受欢迎的开源微分方程教材之一：行文轻快、例题现代，官方免费 PDF，工程与数学双友好。",
+      "url": "https://www.jirka.org/diffyqs/",
+      "category": "math",
+      "tags": [
+        "微分方程",
+        "免费 PDF",
+        "行文轻快",
+        "英文",
+        "进阶",
+        "Jiri Lebl"
+      ],
+      "icon": "🌊",
+      "bg": "",
+      "tool": "英文",
+      "hot": 78
+    },
+    {
+      "name": "Convex Optimization",
+      "desc": "凸优化的圣经：斯坦福传奇课程 EE364 配套教材，官方免费 PDF 与全部课件，ML/运筹/控制的共同地基。",
+      "url": "https://web.stanford.edu/~boyd/cvxbook/",
+      "category": "math",
+      "tags": [
+        "凸优化圣经",
+        "免费 PDF",
+        "EE364 配套",
+        "英文",
+        "高级",
+        "Stephen Boyd & Lieven Vandenberghe"
+      ],
+      "icon": "🧮",
+      "bg": "",
+      "tool": "英文",
+      "hot": 90
+    },
+    {
+      "name": "Introduction to Applied Linear Algebra (VMLS)",
+      "desc": "Boyd 的应用线性代数入门：以数据科学应用为主线，不用微积分先讲清向量与矩阵的威力，官方免费 PDF。",
+      "url": "https://web.stanford.edu/~boyd/vmls/",
+      "category": "math",
+      "tags": [
+        "应用线性代数",
+        "免费 PDF",
+        "ML 地基",
+        "英文",
+        "入门",
+        "Stephen Boyd & Lieven Vandenberghe"
+      ],
+      "icon": "🔢",
+      "bg": "",
+      "tool": "英文",
+      "hot": 86
+    },
+    {
+      "name": "Elementary Number Theory: Primes, Congruences, and Secrets",
+      "desc": "SageMath 创始人的数论教材：从素数到 RSA 密码学应用，官方免费在线，计算视角的数论入门。",
+      "url": "https://wstein.org/ent/",
+      "category": "math",
+      "tags": [
+        "数论",
+        "计算视角",
+        "免费在线",
+        "英文",
+        "进阶",
+        "William Stein"
+      ],
+      "icon": "🔐",
+      "bg": "",
+      "tool": "英文",
+      "hot": 75
+    },
+    {
+      "name": "Organic Chemistry",
+      "desc": "OpenStax 有机化学教材：结构与反应机理系统覆盖，北美高校采用的免费标准教材，医学生预科的常见选择。",
+      "url": "https://openstax.org/details/books/organic-chemistry",
+      "category": "science",
+      "tags": [
+        "OpenStax",
+        "有机化学",
+        "免费",
+        "英文",
+        "高级",
+        "OpenStax (Rice University)"
+      ],
+      "icon": "🧪",
+      "bg": "",
+      "tool": "英文",
+      "hot": 76
+    },
+    {
+      "name": "Microbiology",
+      "desc": "OpenStax 微生物学教材：细菌、病毒到免疫与流行病学，疫情时代使用量激增的免费标准教材。",
+      "url": "https://openstax.org/details/books/microbiology",
+      "category": "science",
+      "tags": [
+        "OpenStax",
+        "微生物免疫",
+        "免费",
+        "英文",
+        "进阶",
+        "OpenStax (Rice University)"
+      ],
+      "icon": "🦠",
+      "bg": "",
+      "tool": "英文",
+      "hot": 75
+    },
+    {
+      "name": "HyperPhysics",
+      "desc": "全球物理学习者都在用的概念地图：以可点击的概念关系网络覆盖全部物理分支，查物理概念的最快路径。",
+      "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+      "category": "science",
+      "tags": [
+        "概念地图",
+        "物理查询",
+        "经典站点",
+        "英文",
+        "进阶",
+        "Georgia State University"
+      ],
+      "icon": "🗺️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 83
+    },
+    {
+      "name": "手册 (Enchiridion)",
+      "desc": "斯多葛学派最凝练的行动手册：区分「可控与不可控」的原始论述，MIT 经典文库免费在线。",
+      "url": "http://classics.mit.edu/Epictetus/epicench.html",
+      "category": "philosophy",
+      "tags": [
+        "斯多葛手册",
+        "可控不可控",
+        "免费在线",
+        "英文",
+        "入门",
+        "爱比克泰德"
+      ],
+      "icon": "🗺️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 85
+    },
+    {
+      "name": "君主论 (The Prince)",
+      "desc": "政治现实主义的开山之作：「被人畏惧比被人爱戴更安全」，五百年来权力研究的元典，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/1232",
+      "category": "philosophy",
+      "tags": [
+        "政治现实主义",
+        "权力研究",
+        "公版免费",
+        "英文",
+        "进阶",
+        "马基雅维利"
+      ],
+      "icon": "👑",
+      "bg": "",
+      "tool": "英文",
+      "hot": 88
+    },
+    {
+      "name": "利维坦 (Leviathan)",
+      "desc": "现代政治哲学的奠基之作：社会契约与「一切人对一切人的战争」的国家理论原点，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/3207",
+      "category": "philosophy",
+      "tags": [
+        "社会契约",
+        "国家理论",
+        "公版免费",
+        "英文",
+        "高级",
+        "Thomas Hobbes"
+      ],
+      "icon": "🐙",
+      "bg": "",
+      "tool": "英文",
+      "hot": 83
+    },
+    {
+      "name": "政府论 (Second Treatise of Government)",
+      "desc": "自由主义与宪政的源头文本：生命、自由、财产权的自然权利论述，直接塑造了美国建国文献，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/7370",
+      "category": "philosophy",
+      "tags": [
+        "自由主义源头",
+        "自然权利",
+        "公版免费",
+        "英文",
+        "高级",
+        "John Locke"
+      ],
+      "icon": "🏛️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "联邦党人文集",
+      "desc": "美国宪法的权威注解：85 篇报纸连载论说政制的全部设计逻辑，政治学与法学研究的永恒文本，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/1404",
+      "category": "philosophy",
+      "tags": [
+        "宪法注解",
+        "政制设计",
+        "公版免费",
+        "英文",
+        "高级",
+        "Hamilton, Madison & Jay"
+      ],
+      "icon": "📜",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "常识 (Common Sense)",
+      "desc": "点燃一场革命的小册子：五十页改变美国历史的政治论辩，印刷量与影响力远超其篇幅，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/147",
+      "category": "philosophy",
+      "tags": [
+        "改变历史",
+        "五十页雄文",
+        "公版免费",
+        "英文",
+        "入门",
+        "Thomas Paine"
+      ],
+      "icon": "🔥",
+      "bg": "",
+      "tool": "英文",
+      "hot": 80
+    },
+    {
+      "name": "周易 (I Ching)",
+      "desc": "群经之首：阴阳变易的符号系统影响东亚思想三千年，CTEXT 提供原文英译免费阅读。",
+      "url": "https://ctext.org/book-of-changes/zhs",
+      "category": "philosophy",
+      "tags": [
+        "群经之首",
+        "阴阳变易",
+        "原文英译",
+        "中英",
+        "高级",
+        "周代卜官（辑）"
+      ],
+      "icon": "☯️",
+      "bg": "",
+      "tool": "中英",
+      "hot": 86
+    },
+    {
+      "name": "绿野仙踪",
+      "desc": "美国本土童话的开山之作：翡翠城与黄砖路成为文化原型，古腾堡 ebook 55，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/55",
+      "category": "lit",
+      "tags": [
+        "美国童话",
+        "文化原型",
+        "公版免费",
+        "英文",
+        "入门",
+        "L. Frank Baum"
+      ],
+      "icon": "🌪️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 83
+    },
+    {
+      "name": "绿山墙的安妮",
+      "desc": "百年畅销的成长经典：红发安妮的乐观与想象力治愈了几代读者，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/45",
+      "category": "lit",
+      "tags": [
+        "成长经典",
+        "治愈系",
+        "公版免费",
+        "英文",
+        "入门",
+        "L. M. Montgomery"
+      ],
+      "icon": "🌼",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "秘密花园",
+      "desc": "儿童文学的不朽经典：一座花园治愈两个孩子的生命寓言，「内向者名著书单」常客，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/17396",
+      "category": "lit",
+      "tags": [
+        "儿童文学",
+        "治愈寓言",
+        "公版免费",
+        "英文",
+        "入门",
+        "Frances Hodgson Burnett"
+      ],
+      "icon": "🌷",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "小妇人",
+      "desc": "美国文学中女性成长的永恒文本：马奇家四姐妹的悲欢至今共鸣，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/514",
+      "category": "lit",
+      "tags": [
+        "女性成长",
+        "永恒文本",
+        "公版免费",
+        "英文",
+        "入门",
+        "Louisa May Alcott"
+      ],
+      "icon": "🌸",
+      "bg": "",
+      "tool": "英文",
+      "hot": 85
+    },
+    {
+      "name": "圣诞颂歌",
+      "desc": "「Merry Christmas」的重新发明者：斯克鲁奇的救赎塑造了现代圣诞精神，古腾堡 ebook 46，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/46",
+      "category": "lit",
+      "tags": [
+        "狄更斯",
+        "圣诞精神",
+        "公版免费",
+        "英文",
+        "入门",
+        "Charles Dickens"
+      ],
+      "icon": "🔔",
+      "bg": "",
+      "tool": "英文",
+      "hot": 86
+    },
+    {
+      "name": "理智与情感",
+      "desc": "奥斯汀出版第一部小说：两姐妹的婚恋对照实验，机智与情感的平衡艺术，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/161",
+      "category": "lit",
+      "tags": [
+        "简·奥斯汀",
+        "处女作",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Jane Austen"
+      ],
+      "icon": "💌",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "简·爱",
+      "desc": "女性独立精神的文学宣言：「我们的精神是平等的」响彻一百七十年，哥特与成长小说的完美融合，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/1260",
+      "category": "lit",
+      "tags": [
+        "女性宣言",
+        "哥特成长",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Charlotte Brontë"
+      ],
+      "icon": "🕯️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 88
+    },
+    {
+      "name": "呼啸山庄",
+      "desc": "英国文学最猛烈的爱情悲剧：希斯克利夫的复仇与荒原的风，「爱比恨更危险」的极致书写，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/768",
+      "category": "lit",
+      "tags": [
+        "爱情悲剧",
+        "勃朗特姐妹",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Emily Brontë"
+      ],
+      "icon": "🏔️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 87
+    },
+    {
+      "name": "不可儿戏",
+      "desc": "英语喜剧的巅峰之作：王尔德警句的密度之高令人窒息，「一部为正经人写的无厘头喜剧」，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/844",
+      "category": "lit",
+      "tags": [
+        "喜剧巅峰",
+        "王尔德警句",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Oscar Wilde"
+      ],
+      "icon": "🎩",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "黑暗的心",
+      "desc": "现代主义的开端之作：溯流而上直抵人性深渊，《现代启示录》的原著，叙事技巧的革命，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/219",
+      "category": "lit",
+      "tags": [
+        "现代主义开端",
+        "人性深渊",
+        "公版免费",
+        "英文",
+        "高级",
+        "Joseph Conrad"
+      ],
+      "icon": "🕯️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 83
+    },
+    {
+      "name": "基督山伯爵",
+      "desc": "史上最完美的通俗小说：复仇爽文鼻祖，一千五百页全程高能，「人类说不完的故事」，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/1184",
+      "category": "lit",
+      "tags": [
+        "复仇爽文鼻祖",
+        "全程高能",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Alexandre Dumas"
+      ],
+      "icon": "⚔️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 89
+    },
+    {
+      "name": "三个火枪手",
+      "desc": "「人人为我，我为人人」：侠义与权谋齐飞的历史冒险经典，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/1257",
+      "category": "lit",
+      "tags": [
+        "侠义经典",
+        "历史冒险",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Alexandre Dumas"
+      ],
+      "icon": "🗡️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "海底两万里",
+      "desc": "科幻硬核传统的起点：鹦鹉螺号与尼摩船长，凡尔纳预言了整个世纪的海洋科技，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/164",
+      "category": "lit",
+      "tags": [
+        "科幻硬核",
+        "凡尔纳",
+        "公版免费",
+        "英文",
+        "入门",
+        "Jules Verne"
+      ],
+      "icon": "🚢",
+      "bg": "",
+      "tool": "英文",
+      "hot": 85
+    },
+    {
+      "name": "八十天环游地球",
+      "desc": "技术与冒险的完美赌局：福格先生的八十天赌约，节奏拿捏两百年来无出其右，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/103",
+      "category": "lit",
+      "tags": [
+        "冒险赌局",
+        "节奏大师",
+        "公版免费",
+        "英文",
+        "入门",
+        "Jules Verne"
+      ],
+      "icon": "🎈",
+      "bg": "",
+      "tool": "英文",
+      "hot": 83
+    },
+    {
+      "name": "巴斯克维尔的猎犬",
+      "desc": "福尔摩斯最长也最阴森的案件：荒原魔犬与哥特悬疑的完美结合，侦探小说类型的巅峰之作，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/2852",
+      "category": "lit",
+      "tags": [
+        "福尔摩斯",
+        "哥特悬疑",
+        "公版免费",
+        "英文",
+        "入门",
+        "Arthur Conan Doyle"
+      ],
+      "icon": "🐕",
+      "bg": "",
+      "tool": "英文",
+      "hot": 86
+    },
+    {
+      "name": "丛林之书",
+      "desc": "狼孩毛格利的丛林法则：影响了全世界童年的动物史诗，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/236",
+      "category": "lit",
+      "tags": [
+        "动物史诗",
+        "狼孩传说",
+        "公版免费",
+        "英文",
+        "入门",
+        "Rudyard Kipling"
+      ],
+      "icon": "🐯",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "红字",
+      "desc": "美国浪漫主义文学的开山之作：一个字母的耻辱与救赎，清教社会的心理解剖，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/25344",
+      "category": "lit",
+      "tags": [
+        "美国文学开端",
+        "耻辱救赎",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Nathaniel Hawthorne"
+      ],
+      "icon": "🔴",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "老实人",
+      "desc": "启蒙运动的讽刺利剑：「一切都是最好的安排」被伏尔泰用九十章荒诞旅行砸得粉碎，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/19942",
+      "category": "lit",
+      "tags": [
+        "启蒙讽刺",
+        "荒诞旅行",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Voltaire"
+      ],
+      "icon": "⚔️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 81
+    },
+    {
+      "name": "格列佛游记",
+      "desc": "小人国与大人国之外：一部被误当童话的政治讽刺杰作，斯威夫特的锋利至今扎人，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/829",
+      "category": "lit",
+      "tags": [
+        "政治讽刺",
+        "被误读的童话",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Jonathan Swift"
+      ],
+      "icon": "🏴‍☠️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "鲁滨逊漂流记",
+      "desc": "英国小说的开山之作：一个人的荒岛文明重建史，个人主义叙事的原点，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/521",
+      "category": "lit",
+      "tags": [
+        "英国小说开端",
+        "荒岛重建",
+        "公版免费",
+        "英文",
+        "入门",
+        "Daniel Defoe"
+      ],
+      "icon": "🏝️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 83
+    },
+    {
+      "name": "天路历程",
+      "desc": "除圣经外三百年间最畅销的英语书：基督徒奔走天路的寓意之旅，英语文学的想象力丰碑，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/131",
+      "category": "lit",
+      "tags": [
+        "寓意之旅",
+        "三百年畅销",
+        "公版免费",
+        "英文",
+        "进阶",
+        "John Bunyan"
+      ],
+      "icon": "🛤️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 80
+    },
+    {
+      "name": "米德尔马契",
+      "desc": "伍尔夫认证「专写成年人的英语小说之首」：一座小镇的社会解剖，理想主义者在婚姻与社会中的落点，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/145",
+      "category": "lit",
+      "tags": [
+        "成年人的小说",
+        "社会解剖",
+        "公版免费",
+        "英文",
+        "高级",
+        "George Eliot"
+      ],
+      "icon": "🏘️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "雾都孤儿",
+      "desc": "狄更斯社会批判的成名之作：济贫院与伦敦底层的真实图景，「再要一碗」成为文学史名场面，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/730",
+      "category": "lit",
+      "tags": [
+        "社会批判",
+        "伦敦底层",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Charles Dickens"
+      ],
+      "icon": "🍲",
+      "bg": "",
+      "tool": "英文",
+      "hot": 83
+    },
+    {
+      "name": "大卫·科波菲尔",
+      "desc": "狄更斯「心中最宠爱的孩子」：半自传体的成长史诗，人物群像之丰庶几无出其右，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/766",
+      "category": "lit",
+      "tags": [
+        "半自传史诗",
+        "人物长卷",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Charles Dickens"
+      ],
+      "icon": "📖",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "远大前程",
+      "desc": "狄更斯艺术最成熟的小说：皮普的阶级幻想与幻灭，「远大前程」四个字即是反讽，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/1400",
+      "category": "lit",
+      "tags": [
+        "艺术巅峰",
+        "阶级幻灭",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Charles Dickens"
+      ],
+      "icon": "🕯️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "黄色墙纸",
+      "desc": "女性主义文学的开路之作：六千字的心理恐怖直击禁锢女性的「治疗」，短小而震撼，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/1952",
+      "category": "lit",
+      "tags": [
+        "女性主义",
+        "心理恐怖",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Charlotte Perkins Gilman"
+      ],
+      "icon": "📜",
+      "bg": "",
+      "tool": "英文",
+      "hot": 81
+    },
+    {
+      "name": "弗雷德里克·道格拉斯自述",
+      "desc": "美国废奴运动的文学丰碑：从奴隶到演说家的亲历自述，古腾堡 ebook 23，美国史的必读一手文献，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/23",
+      "category": "lit",
+      "tags": [
+        "废奴丰碑",
+        "一手文献",
+        "公版免费",
+        "英文",
+        "进阶",
+        "Frederick Douglass"
+      ],
+      "icon": "⛓️",
+      "bg": "",
+      "tool": "英文",
+      "hot": 83
+    },
+    {
+      "name": "黑人的灵魂",
+      "desc": "二十世纪美国思想的原点之一：「双重意识」概念的出处，社会学与散文艺术的合体，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/408",
+      "category": "lit",
+      "tags": [
+        "双重意识",
+        "思想原点",
+        "公版免费",
+        "英文",
+        "高级",
+        "W.E.B. Du Bois"
+      ],
+      "icon": "🎻",
+      "bg": "",
+      "tool": "英文",
+      "hot": 80
+    },
+    {
+      "name": "聊斋志异",
+      "desc": "中国文言短篇小说的巅峰：花妖狐魅比人更有情，「写鬼写妖高人一等」，维基文库免费。",
+      "url": "https://zh.wikisource.org/wiki/聊齋志異",
+      "category": "lit",
+      "tags": [
+        "文言短篇巅峰",
+        "花妖狐魅",
+        "免费",
+        "中文",
+        "进阶",
+        "蒲松龄"
+      ],
+      "icon": "🦊",
+      "bg": "",
+      "tool": "中文",
+      "hot": 88
+    },
+    {
+      "name": "儒林外史",
+      "desc": "中国讽刺文学的巅峰：范进中举与儒林众生的辛辣白描，直接启发《围城》一脉，维基文库免费。",
+      "url": "https://zh.wikisource.org/wiki/儒林外史",
+      "category": "lit",
+      "tags": [
+        "讽刺文学巅峰",
+        "范进中举",
+        "免费",
+        "中文",
+        "进阶",
+        "吴敬梓"
+      ],
+      "icon": "🎭",
+      "bg": "",
+      "tool": "中文",
+      "hot": 83
+    },
+    {
+      "name": "睡谷传说",
+      "desc": "美国本土文学的第一个传奇：无头骑士的夜路，美国短篇故事的起点，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/41",
+      "category": "lit",
+      "tags": [
+        "美国传奇起点",
+        "无头骑士",
+        "公版免费",
+        "英文",
+        "入门",
+        "Washington Irving"
+      ],
+      "icon": "🎃",
+      "bg": "",
+      "tool": "英文",
+      "hot": 80
+    },
+    {
+      "name": "柳林风声",
+      "desc": "英国田园童话的巅峰：河鼠、鼹鼠与癞蛤蟆的河岸生活，《魔戒》作者托尔金的最爱之一，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/289",
+      "category": "lit",
+      "tags": [
+        "田园童话",
+        "河岸生活",
+        "公版免费",
+        "英文",
+        "入门",
+        "Kenneth Grahame"
+      ],
+      "icon": "🦡",
+      "bg": "",
+      "tool": "英文",
+      "hot": 82
+    },
+    {
+      "name": "安徒生童话",
+      "desc": "卖火柴的小女孩与丑小鸭：世界童话文学的皇冠，英语权威译本公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/1597",
+      "category": "lit",
+      "tags": [
+        "世界童话皇冠",
+        "丑小鸭",
+        "公版免费",
+        "英文",
+        "入门",
+        "Hans Christian Andersen"
+      ],
+      "icon": "🦢",
+      "bg": "",
+      "tool": "英文",
+      "hot": 87
+    },
+    {
+      "name": "化身博士",
+      "desc": "「Jekyll 与 Hyde」进入人类语言：人格分裂叙事的原点，对人性双面性的永恒寓言，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/43",
+      "category": "lit",
+      "tags": [
+        "双重人格",
+        "语言贡献者",
+        "公版免费",
+        "英文",
+        "入门",
+        "Robert Louis Stevenson"
+      ],
+      "icon": "🧪",
+      "bg": "",
+      "tool": "英文",
+      "hot": 84
+    },
+    {
+      "name": "世界大战",
+      "desc": "外星入侵题材的发明者：火星人践踏英伦引发的技术恐慌，科幻社会学的开山，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/36",
+      "category": "lit",
+      "tags": [
+        "外星入侵鼻祖",
+        "科幻社会学",
+        "公版免费",
+        "英文",
+        "入门",
+        "H.G. Wells"
+      ],
+      "icon": "🛸",
+      "bg": "",
+      "tool": "英文",
+      "hot": 85
+    },
+    {
+      "name": "隐形人",
+      "desc": "「隐形」科幻母题的源头：获得隐身能力的天才如何走向疯狂，科学伦理的早期追问，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/5230",
+      "category": "lit",
+      "tags": [
+        "隐形母题",
+        "科学伦理",
+        "公版免费",
+        "英文",
+        "入门",
+        "H.G. Wells"
+      ],
+      "icon": "🫥",
+      "bg": "",
+      "tool": "英文",
+      "hot": 81
+    },
+    {
+      "name": "莫洛博士岛",
+      "desc": "生物改造科幻的始祖：活体改造兽人的恐怖岛，追问「造物的边界」，比基因编辑早了一百年，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/159",
+      "category": "lit",
+      "tags": [
+        "生物科幻始祖",
+        "造物边界",
+        "公版免费",
+        "英文",
+        "入门",
+        "H.G. Wells"
+      ],
+      "icon": "🐆",
+      "bg": "",
+      "tool": "英文",
+      "hot": 79
+    },
+    {
+      "name": "原来如此的故事",
+      "desc": "大象的鼻子为什么长：充满父爱与想象力的起源故事集，英语儿童文学的经典，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/2781",
+      "category": "lit",
+      "tags": [
+        "起源故事",
+        "父爱之作",
+        "公版免费",
+        "英文",
+        "入门",
+        "Rudyard Kipling"
+      ],
+      "icon": "🐘",
+      "bg": "",
+      "tool": "英文",
+      "hot": 78
+    },
+    {
+      "name": "都柏林人",
+      "desc": "短篇集的艺术巅峰：十五个「精神顿悟」时刻写尽一座城市，「死者」被誉为英语最完美的短篇，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/2814",
+      "category": "lit",
+      "tags": [
+        "短篇巅峰",
+        "精神顿悟",
+        "公版免费",
+        "英文",
+        "高级",
+        "James Joyce"
+      ],
+      "icon": "🎶",
+      "bg": "",
+      "tool": "英文",
+      "hot": 83
+    },
+    {
+      "name": "人口原理",
+      "desc": "改变经济学与生物学的名著：人口几何级增长的悲观预言直接启发达尔文「自然选择」，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/4239",
+      "category": "econ",
+      "tags": [
+        "启发达尔文",
+        "人口预言",
+        "公版免费",
+        "英文",
+        "高级",
+        "Thomas Robert Malthus"
+      ],
+      "icon": "👥",
+      "bg": "",
+      "tool": "英文",
+      "hot": 79
+    },
+    {
+      "name": "有闲阶级论",
+      "desc": "「炫耀性消费」概念的出处：用锋利的笔解剖财富与地位的社会学经典，一百多年后反而更应景，公版免费。",
+      "url": "https://www.gutenberg.org/ebooks/833",
+      "category": "econ",
+      "tags": [
+        "炫耀性消费",
+        "社会解剖",
+        "公版免费",
+        "英文",
+        "高级",
+        "Thorstein Veblen"
+      ],
+      "icon": "💎",
+      "bg": "",
+      "tool": "英文",
+      "hot": 81
+    },
+    {
+      "name": "The Almanack of Naval Ravikant",
+      "desc": "硅谷天使投资人「财富与幸福」智慧的官方免费合集：关于杠杆、专长与心态的现代箴言集，官方开放电子版。",
+      "url": "https://www.navalmanack.com",
+      "category": "econ",
+      "tags": [
+        "硅谷智慧",
+        "官方免费",
+        "财富与幸福",
+        "英文",
+        "入门",
+        "Eric Jorgenson 编"
+      ],
+      "icon": "🧭",
+      "bg": "",
+      "tool": "英文",
+      "hot": 87
+    },
+    {
+      "name": "穷查理宝典（在线版）",
+      "desc": "芒格多元思维模型的集合：Stripe 制作的官方在线版免费开放，投资与决策心理学的传世读本。",
+      "url": "https://www.poorcharliesalmanack.com",
+      "category": "econ",
+      "tags": [
+        "芒格",
+        "多元思维",
+        "官方在线版",
+        "英文",
+        "进阶",
+        "Charlie Munger"
+      ],
+      "icon": "🧠",
+      "bg": "",
+      "tool": "英文",
+      "hot": 88
     }
   ],
   "categories": [

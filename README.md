@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[开源书籍宝库](https://soycodetrail.top/books)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-31 07:21:09
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-31 08:19:50
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（206 个条目 / 12 个分类）
+## 📑 内容导航（326 个条目 / 12 个分类）
 
 - [🤖 AI Agent](#cat-ai-agent)
 - [🧠 大模型 LLM](#cat-大模型-llm)
@@ -57,6 +57,16 @@
   标签：Agentic Coding / 官方实践 / 工作流 / 英文 / 进阶 / Anthropic
 - [LLM Agents 开放课程](https://llmagents-learning.org) — 伯克利推出的 LLM Agents 大规模公开课：业界顶尖研究者系列讲座 + 实战竞赛，覆盖推理、规划、工具使用与多 Agent 前沿。  
   标签：伯克利 / 公开课 / 前沿讲座 / 英文 / 进阶 / UC Berkeley (BAIR)
+- [Equipping agents for the real world with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) — Anthropic 官方 Agent Skills 工程解析：如何用可组合的技能包扩展 Agent 能力，Skill 设计思想的权威出处。  
+  标签：Anthropic 官方 / Agent Skills / 工程设计 / 英文 / 进阶 / Anthropic
+- [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — Anthropic 官方上下文工程长文：把「提示工程」升级为系统级的上下文管理方法论，Agent 时代最重要的一篇工程文章之一。  
+  标签：上下文工程 / Anthropic 官方 / 方法论 / 英文 / 高级 / Anthropic
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) — MCP 服务器生态第一索引（数万星）：数千个现成的 Model Context Protocol 服务器分类收录，给 Agent 装手脚的第一站。  
+  标签：MCP 生态 / 超高星标 / 第一索引 / 英文 / 入门 / punkpeye 等社区维护
+- [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) — AI Agent 框架与项目的权威清单：AutoGen、CrewAI、LangGraph 等数十个框架分类对比，选型前先看这里。  
+  标签：框架清单 / 选型参考 / 社区维护 / 英文 / 入门 / e2b-dev 社区维护
+- [A Survey on LLM-based Autonomous Agents](https://arxiv.org/abs/2308.11432) — 被引最多的 LLM Agent 综述之一：系统梳理 Agent 的构建、评估与应用全景，学术界对该领域最完整的地图。  
+  标签：顶会综述 / 领域地图 / 高引论文 / 英文 / 高级 / Fudan NLP 等
 
 <a id="cat-大模型-llm" name="cat-大模型-llm"></a>
 
@@ -92,6 +102,26 @@
   标签：Google 官方 / 白皮书 / 技术全景 / 英文 / 进阶 / Lee Boonstra (Google)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) — OpenAI 官方示例库： embeddings、RAG、函数调用、评估等数百个可运行 Notebook，用 API 构建的实际问题参考答案。  
   标签：官方示例 / Notebook / 实用配方 / 英文 / 进阶 / OpenAI
+- [Anthropic Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) — Anthropic 官方交互式提示工程教程：九章节可动手练习，从基础结构到链式调用与工具使用，业界最好的系统化提示课。  
+  标签：Anthropic 官方 / 交互练习 / 系统课程 / 英文 / 入门 / Anthropic
+- [Learn Prompting](https://learnprompting.org) — 最早也最全面的免费提示工程开源课程：从零基础到高级技术，多语言版本含中文，GitHub 数万星。  
+  标签：开源课程 / 多语言 / 从零到高阶 / 中英 / 入门 / Learn Prompting 团队
+- [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering) — 金融科技公司 Brex 内部指南开源版：面向生产环境的务实提示工程原则与陷阱清单，工程团队口口相传。  
+  标签：生产导向 / 内部开源 / 务实原则 / 英文 / 进阶 / Brex AI 团队
+- [Stanford CS25: Transformers United](https://web.stanford.edu/class/cs25/) — 斯坦福传奇研讨课：Transformer 领域开创者们亲述各自方向的前沿，从注意力起源到具身智能，免费的学术盛宴。  
+  标签：开创者讲座 / 前沿全景 / 免费公开 / 英文 / 高级 / Stanford University
+- [The Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) — 一天浓缩 LLM 应用工程全景的知名训练营讲义：从 Prompt 到 Ops，十二条主干讲座全部免费公开。  
+  标签：工程全景 / 免费公开 / 浓缩精华 / 英文 / 进阶 / Full Stack Deep Learning
+- [Made With ML](https://madewithml.com) — 数十万工程师学过的免费 MLOps / LLM 系统课：以生产部署为主线讲机器学习工程全流程，业界口碑极佳。  
+  标签：MLOps / 生产主线 / 免费课程 / 英文 / 进阶 / Goku Mohandas
+- [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/) — 图解 GPT-2：与图解 Transformer 齐名的续作，把自回归生成的每一步可视化，理解 LLM 推理过程的最佳读物。  
+  标签：图解系列 / 自回归 / 经典名篇 / 英文 / 进阶 / Jay Alammar
+- [The Illustrated BERT](https://jalammar.github.io/illustrated-bert/) — 图解 BERT 与 ELMO：讲透双向编码与预训练-微调范式，NLP 预训练时代的入门必读图解。  
+  标签：图解系列 / 预训练范式 / 经典名篇 / 英文 / 进阶 / Jay Alammar
+- [Prompt Engineering Guide (OpenAI Docs)](https://platform.openai.com/docs/guides/prompt-engineering) — OpenAI 官方提示工程指南：六条核心策略与战术拆解，配可复制示例，所有用 GPT 系模型的工程参照系。  
+  标签：OpenAI 官方 / 策略战术 / 权威参照 / 英文 / 入门 / OpenAI
+- [HELM: Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm/) — 斯坦福基础模型研究中心的大模型评估框架：以透明、多维的指标体系评估主流模型，评估方法论的学术标杆。  
+  标签：模型评估 / 学术标杆 / 透明指标 / 英文 / 高级 / Stanford CRFM
 
 <a id="cat-深度学习-机器学习" name="cat-深度学习-机器学习"></a>
 
@@ -151,6 +181,26 @@
   标签：程序员向 / 免费在线 / 统计思维 / 英文 / 入门 / Allen B. Downey
 - [CS229 讲义 (Machine Learning)](https://cs229.stanford.edu) — 吴恩达传奇机器学习课程的官方讲义：从线性回归到 SVM 与 EM 算法，数学推导严谨，全球转阅最多的 ML 讲义。  
   标签：吴恩达 / 官方讲义 / 经典课程 / 英文 / 高级 / Andrew Ng (Stanford)
+- [Practical Deep Learning for Coders](https://course.fast.ai) — 全球最著名的实战深度学习课程：从训练一个图像分类器开始自顶向下学习，配套 fastbook 全部免费，改变了无数人的职业轨迹。  
+  标签：fast.ai / 自顶向下 / 免费课程 / 英文 / 入门 / Jeremy Howard (fast.ai)
+- [Distill](https://distill.pub) — 深度学习交互式期刊的传奇：把论文做成可拖拽的交互可视化，《特征可视化》等名篇是领域的视觉圣经（已停刊，存档免费）。  
+  标签：交互式期刊 / 视觉圣经 / 存档免费 / 英文 / 高级 / Distill 研究者社区
+- [CS231n 课程笔记](https://cs231n.github.io) — 计算机视觉第一课的官方笔记：卷积网络、反向传播到注意力机制，全球转载最多的深度学习讲义之一。  
+  标签：斯坦福 / CV 圣经 / 官方笔记 / 英文 / 进阶 / Stanford / Fei-Fei Li 等
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) — 机器学习理论的最佳入门教材：PAC 学习、VC 维到 SVM 的严谨而友好的体系，作者官方提供全书免费 PDF。  
+  标签：学习理论 / 免费 PDF / 理论入门 / 英文 / 高级 / Shai Ben-David & Shai Shalev-Shwartz
+- [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) — NYU 研究生级机器学习理论基础教材：官方免费 PDF，覆盖统计学习理论、核方法与在线学习。  
+  标签：理论基础 / 免费 PDF / NYU 教材 / 英文 / 高级 / Mehryar Mohri 等 (NYU)
+- [Kaggle Learn](https://www.kaggle.com/learn) — Kaggle 官方免费微课程：Python、Pandas、机器学习、深度学习到时间序列，全部浏览器内动手实践，数据科学入门快车道。  
+  标签：Kaggle 官方 / 浏览器实操 / 免费 / 英文 / 入门 / Kaggle (Google)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) — Python 数据科学的免费圣经：NumPy、Pandas、Matplotlib 与 scikit-learn 全栈手册，作者官方全文免费在线。  
+  标签：数据科学 / 全文免费 / Jupyter 版 / 英文 / 进阶 / Jake VanderPlas
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) — 为科研/数据人员写的 Python 快速通道：一百页讲完语言核心，官方免费，Handbook 的最佳前传。  
+  标签：快速入门 / 免费在线 / 百页精华 / 英文 / 入门 / Jake VanderPlas
+- [Machine Learning System Design (Booklet)](https://github.com/chiphuyen/machine-learning-systems-design) — ML 系统设计的免费小册子：面试与实战两用的设计模式梳理，作者官方开源，ML 系统设计题的标准准备材料。  
+  标签：系统设计 / 官方开源 / 面试必备 / 英文 / 高级 / Chip Huyen
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com) — 最知名的「生产级深度学习」课程：覆盖项目管理、数据、建模、部署与监控全生命周期，历年课程全部免费公开。  
+  标签：工程全周期 / 免费公开 / 生产导向 / 英文 / 高级 / FSDL 团队 (UC Berkeley 等)
 
 <a id="cat-编程语言" name="cat-编程语言"></a>
 
@@ -198,6 +248,38 @@
   标签：微软官方 / 24 课 / 前端入门 / 中英 / 入门 / Microsoft
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.github.io) — 最有趣的函数式编程入门：用漫画式讲解把 Haskell 讲得轻松易懂，官方免费在线，函数式思维第一课。  
   标签：函数式 / Haskell / 幽默风格 / 英文 / 进阶 / Miran Lipovača
+- [LearnCpp.com](https://www.learncpp.com) — 最好的免费 C++ 在线教程：从零到 C++20 系统覆盖，循序渐进+章末习题，社区公认的现代 C++ 入门标准。  
+  标签：C++ 标准 / 现代教程 / 免费 / 英文 / 入门 / LearnCpp 团队
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/) — Beej 系列的 C 语言篇：与网络编程指南同款幽默与严谨，免费在线，C 语言入门的口碑之选。  
+  标签：C 入门 / 幽默严谨 / 免费 / 英文 / 入门 / Brian "Beej" Hall
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/) — Rust 官方可运行示例集：每个语言特性配一段能直接跑的代码，与 The Book 互补的官方学习路径。  
+  标签：Rust 官方 / 可运行示例 / 免费 / 英文 / 入门 / Rust 官方
+- [The Rustonomicon](https://doc.rust-lang.org/nomicon/) — Rust 官方「黑暗圣经」：Unsafe Rust 与底层未定义行为的世界，写系统级 Rust 的必读进阶书。  
+  标签：Unsafe Rust / 官方进阶 / 底层世界 / 英文 / 高级 / Rust 官方
+- [Go by Example](https://gobyexample.com) — 以带注释的示例程序学 Go 的标杆站点：每个语言特性一个可运行例子，Go 官方文档都推荐的入门方式。  
+  标签：示例驱动 / 官方推荐 / 免费 / 英文 / 入门 / Mark McGranaghan
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) — 用 TDD 学 Go 的开源名作：每个概念从写测试开始驱动实现，同时掌握 Go 与测试驱动开发，GitHub 数万星。  
+  标签：TDD / 双技能 / 高星开源 / 英文 / 进阶 / Quii
+- [Effective Go](https://go.dev/doc/effective_go) — Go 官方「地道 Go 代码」指南：讲清语言设计背后的惯用法，每个 Go 工程师的必经读物。  
+  标签：官方指南 / 惯用法 / 必经读物 / 英文 / 进阶 / Go 官方
+- [The Hitchhiker's Guide to Python](https://docs.python-guide.org) — Python 最佳实践权威指南：由 Requests 作者发起、社区共同维护，讲「怎么写 Pythonic 的代码与项目」，免费在线。  
+  标签：最佳实践 / Pythonic / 免费在线 / 英文 / 进阶 / Kenneth Reitz 等
+- [Invent Your Own Computer Games with Python](https://inventwithpython.com/invent4thed/) — Sweigart 游戏系列开山作：通过亲手写游戏学 Python，从猜数字到 pygame，青少年与零基础的最爱，官方免费在线。  
+  标签：游戏化学习 / 零基础 / 免费在线 / 英文 / 入门 / Al Sweigart
+- [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) — YDKJS 作者的函数式编程开源书：不烧脑的「轻函数式」实践路线，平衡可读性与函数式威力，GitHub 全文免费。  
+  标签：函数式 / 轻量务实 / 全文免费 / 英文 / 进阶 / Kyle Simpson
+- [React 官方教程 (Learn React)](https://react.dev/learn) — 重写后的 React 官方文档 Learn 章节：以「描述 UI、管理状态、逃生舱口」三段式重构了学习曲线，官方推荐的唯一起点。  
+  标签：React 官方 / 新文档 / 起点首选 / 英文 / 入门 / Meta / React 团队
+- [SQLBolt](https://sqlbolt.com) — 最受欢迎的交互式 SQL 教程：每课浏览器内直接写查询看结果，几小时掌握 SQL 基础，零门槛上手。  
+  标签：交互式 / 几小时上手 / 免费 / 英文 / 入门 / SQLBolt 团队
+- [Use The Index, Luke!](https://use-the-index-luke.com) — SQL 索引调优的免费权威书：讲透 B-Tree 索引原理与执行计划，性能工程视角的数据库必读，官方免费在线。  
+  标签：索引调优 / 性能工程 / 免费在线 / 英文 / 高级 / Markus Winand
+- [Ruby on Rails Tutorial](https://www.railstutorial.org/book) — 史上最著名的 Web 框架教程：从零做一个完整产品级应用，官方全文免费在线，Rails 与 Web 开发的双料经典。  
+  标签：Rails 经典 / 完整项目 / 免费全文 / 英文 / 进阶 / Michael Hartl
+- [PHP: The Right Way](https://phptherightway.com) — PHP 最佳实践的社区标准参考：现代 PHP 该怎么写、坑在哪，多语言版本含中文，官方免费。  
+  标签：最佳实践 / 社区标准 / 中文版 / 中英 / 进阶 / Josh Lockhart 等社区
+- [Build Your Own Lisp](https://www.buildyourownlisp.com) — 用 C 语言从零写一个 Lisp 解释器的免费书：一门语言+一个解释器双收获，极客圈口碑之作。  
+  标签：C + Lisp / 解释器实战 / 免费在线 / 英文 / 高级 / Zed A. Shaw
 
 <a id="cat-计算机核心" name="cat-计算机核心"></a>
 
@@ -237,6 +319,34 @@
   标签：开源教材 / 多语言实现 / 免费 / 英文 / 进阶 / Pat Morin (Carleton)
 - [Free Programming Books（免费编程书籍索引）](https://github.com/EbookFoundation/free-programming-books) — GitHub 第一星标仓库（35 万+ 星）：数十种语言的免费编程书籍与课程总索引，中文资源极其丰富，程序员的公共图书馆。  
   标签：GitHub 第一星 / 总索引 / 中文资源多 / 中英 / 入门 / EbookFoundation
+- [Distributed Systems (3rd ed.)](https://www.distributed-systems.net) — Tanenbaum 系分布式系统教材：作者官方免费提供全书 PDF，覆盖架构、进程、通信、一致性与容错。  
+  标签：分布式系统 / 免费 PDF / Tanenbaum / 英文 / 高级 / Maarten van Steen & Andrew Tanenbaum
+- [Readings in Database Systems (红宝书)](http://www.redbook.io) — 数据库教父 Stonebraker 主编的「红宝书」：精选数据库领域最关键论文并附评述，官方免费，进阶数据库内核的地图。  
+  标签：数据库教父 / 论文地图 / 免费在线 / 英文 / 高级 / Michael Stonebraker 等 (MIT)
+- [CMU 15-445: Database Systems](https://15445.courses.cs.cmu.edu) — 全球最受欢迎的数据库系统课程：BusTub 实验框架动手造数据库内核，历年视频与讲义全部公开。  
+  标签：CMU 名课 / 动手造内核 / 全公开 / 英文 / 高级 / Andy Pavlo (CMU)
+- [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/) — 分布式系统第一公开课：以 Go 实现 Raft 等经典系统为核心实验，视频与实验全部免费，后端/基础设施方向必修。  
+  标签：MIT 名课 / Raft 实验 / 全公开 / 英文 / 高级 / MIT PDOS
+- [Mastering Bitcoin (开源版)](https://github.com/bitcoinbook/bitcoinbook) — 最权威的比特币技术书，作者开放全部内容：从密钥、交易到共识网络讲透区块链底层，GitHub 全书免费。  
+  标签：区块链底层 / 全书开放 / 权威之作 / 英文 / 进阶 / Andreas M. Antonopoulos
+- [Crypto 101](https://www.crypto101.io) — 面向程序员的免费密码学入门书：从 XOR 到 TLS，用例驱动讲清现代密码学构件，官方免费。  
+  标签：密码学入门 / 用例驱动 / 免费 / 英文 / 进阶 / Laurens Van Houtven
+- [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) — 斯坦福密码学双雄合著的研究生教材：官方免费草稿全文，从对称加密到公钥协议的严谨体系，Boneh 名课配套。  
+  标签：斯坦福双雄 / 免费全文 / 研究生级 / 英文 / 高级 / Dan Boneh & Victor Shoup (Stanford)
+- [The Cryptopals Crypto Challenges](https://cryptopals.com) — 密码学攻防挑战的天花板：亲手攻破历史加密方案来理解「为什么不能自己发明密码学」，全行业公认的最强实践路径。  
+  标签：攻防挑战 / 业界公认 / 实践为王 / 英文 / 高级 / Matasano / NCC Group
+- [Ray Tracing in One Weekend](https://raytracing.github.io) — 全球最流行的图形学入门：一个周末从零写出路径追踪渲染器，三部曲官方全部免费在线，效果惊艳。  
+  标签：图形学入门 / 一个周末 / 三部曲免费 / 英文 / 进阶 / Peter Shirley 等
+- [LearnOpenGL](https://learnopengl.com) — 现代 OpenGL / 图形编程第一教程：从三角形到 PBR 渲染管线，代码与图解质量业界顶级，官方免费并有多语言翻译。  
+  标签：图形学第一教程 / PBR 管线 / 多语言 / 中英 / 进阶 / Joey de Vries
+- [Quantum Computing for the Very Curious](https://quantum.country) — 全球第一本「记忆增强」量子计算书：用间隔重复卡片内嵌文中边读边记，Nielsen 出品的实验性杰作，免费在线。  
+  标签：量子计算 / 记忆增强 / 实验杰作 / 英文 / 进阶 / Andy Matuschak & Michael Nielsen
+- [Practical Foundations for Programming Languages](https://www.cs.cmu.edu/~rwh/plbook/book.pdf) — 编程语言理论的现代标准教材：CMU 教授官方免费提供全书 PDF，类型系统与语言设计理论的权威体系。  
+  标签：PLT 权威 / 免费 PDF / CMU 教材 / 英文 / 高级 / Robert Harper (CMU)
+- [Software Foundations](https://softwarefoundations.cis.upenn.edu) — 用 Coq 证明程序正确性的著名系列教材：逻辑、归纳、PLT 三卷全部免费在线，形式化方法的标准入门。  
+  标签：形式化验证 / Coq 实战 / 免费在线 / 英文 / 高级 / UPenn / 普林斯顿等
+- [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) — 程序员视角范畴理论的传奇开源书：把抽象代数讲成编程直觉，配视频课程，GitHub 全文免费，函数式进阶必读。  
+  标签：范畴理论 / 程序员视角 / 开源书 / 英文 / 高级 / Bartosz Milewski
 
 <a id="cat-工程实践" name="cat-工程实践"></a>
 
@@ -268,6 +378,16 @@
   标签：排版设计 / 两小时速成 / 免费在线 / 英文 / 入门 / Matthew Butterick
 - [Laws of UX](https://lawsofux.com) — 交互设计界引用最广的参考站：希克定律、菲茨定律、峰终定律等 UX 法则配精美卡片与实例，产品与前端必藏。  
   标签：UX 法则 / 卡片式 / 业界引用王 / 英文 / 入门 / Jon Yablonski
+- [Joel on Software](https://www.joelonsoftware.com) — Stack Overflow 联合创始人的经典文集：约 Joel 谈软件、测试与围篱悖论篇篇经典，免费在线，软件行业写作的标杆。  
+  标签：行业经典文集 / 免费在线 / 写作标杆 / 英文 / 进阶 / Joel Spolsky
+- [Paul Graham Essays](https://www.paulgraham.com/articles.html) — YC 创始人的全部文集免费公开：《Beating the Averages》《Do Things That Don't Scale》等创业与技术思想名篇的原始出处。  
+  标签：YC 创始人 / 思想名篇 / 全部免费 / 英文 / 进阶 / Paul Graham (Y Combinator)
+- [大教堂与集市 (The Cathedral and the Bazaar)](https://www.catb.org/~esr/writings/cathedral-bazaar/) — 开源运动的理论纲领：「足够多的眼睛，所有的缺陷都很浅显」的出处，理解开源协作模式的元典，作者官网免费。  
+  标签：开源元典 / Linus 定律 / 免费在线 / 英文 / 进阶 / Eric S. Raymond
+- [The Art of UNIX Programming](https://www.catb.org/~esr/writings/taoup/) — UNIX 设计哲学的集大成之作：模块化、透明化与「机制与策略分离」等原则的系统阐述，作者官网免费全文。  
+  标签：UNIX 哲学 / 设计原则 / 免费全文 / 英文 / 高级 / Eric S. Raymond
+- [StaffEng](https://staffeng.com) — 百余名 Staff/Principal 工程师的职业路径访谈集：技术深潜还是横向扩张的亲历者答案，免费在线，工程师进阶的路线图。  
+  标签：职业进阶 / 百人访谈 / 免费在线 / 英文 / 高级 / Will Larson
 
 <a id="cat-数学" name="cat-数学"></a>
 
@@ -309,6 +429,20 @@
   标签：点集拓扑 / 多语言版 / 免费 / 英文 / 高级 / Sidney A. Morris
 - [Calculus (Volume 1)](https://openstax.org/details/books/calculus-volume-1) — OpenStax 微积分三部曲第一卷：极限与导数，含 AP 认可习题体系，官方免费，北美高校标准教材。  
   标签：OpenStax / 官方免费 / 高校标准 / 英文 / 入门 / OpenStax (Rice University)
+- [Active Calculus](https://activecalculus.org) — 「做中学」微积分开源教材：以活动和预习任务驱动的现代教学设计，官方免费，美国百余所高校采用。  
+  标签：主动学习 / 开源教材 / 百校采用 / 英文 / 入门 / Matt Boelkins (GVSU)
+- [Precalculus](https://www.stitz-zeager.com) — 口碑极高的开源预科数学教材：代数与三角的严谨准备，官方免费 PDF，被评价为「预科数学的最佳起点」。  
+  标签：预科数学 / 免费 PDF / 严谨友好 / 英文 / 入门 / Carl Stitz & Jeff Zeager
+- [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW.html) — 与《Done Right》齐名的对作：从数学系视角讲线性代数，作者官方免费提供全书，书名即彩蛋。  
+  标签：数学系视角 / 免费全书 / 书名彩蛋 / 英文 / 高级 / Sergei Treil (Brown)
+- [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) — 最受欢迎的开源微分方程教材之一：行文轻快、例题现代，官方免费 PDF，工程与数学双友好。  
+  标签：微分方程 / 免费 PDF / 行文轻快 / 英文 / 进阶 / Jiri Lebl
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) — 凸优化的圣经：斯坦福传奇课程 EE364 配套教材，官方免费 PDF 与全部课件，ML/运筹/控制的共同地基。  
+  标签：凸优化圣经 / 免费 PDF / EE364 配套 / 英文 / 高级 / Stephen Boyd & Lieven Vandenberghe
+- [Introduction to Applied Linear Algebra (VMLS)](https://web.stanford.edu/~boyd/vmls/) — Boyd 的应用线性代数入门：以数据科学应用为主线，不用微积分先讲清向量与矩阵的威力，官方免费 PDF。  
+  标签：应用线性代数 / 免费 PDF / ML 地基 / 英文 / 入门 / Stephen Boyd & Lieven Vandenberghe
+- [Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/) — SageMath 创始人的数论教材：从素数到 RSA 密码学应用，官方免费在线，计算视角的数论入门。  
+  标签：数论 / 计算视角 / 免费在线 / 英文 / 进阶 / William Stein
 
 <a id="cat-科学通识" name="cat-科学通识"></a>
 
@@ -336,6 +470,12 @@
   标签：NASA 官方 / 精装品质 / 免费下载 / 英文 / 入门 / NASA
 - [Anatomy and Physiology 2e](https://openstax.org/details/books/anatomy-and-physiology-2e) — OpenStax 解剖生理学教材：人体九大系统全覆盖，插图精美详实，医护与生物专业的免费标准教材。  
   标签：OpenStax / 解剖生理 / 医护标准 / 英文 / 进阶 / OpenStax (Rice University)
+- [Organic Chemistry](https://openstax.org/details/books/organic-chemistry) — OpenStax 有机化学教材：结构与反应机理系统覆盖，北美高校采用的免费标准教材，医学生预科的常见选择。  
+  标签：OpenStax / 有机化学 / 免费 / 英文 / 高级 / OpenStax (Rice University)
+- [Microbiology](https://openstax.org/details/books/microbiology) — OpenStax 微生物学教材：细菌、病毒到免疫与流行病学，疫情时代使用量激增的免费标准教材。  
+  标签：OpenStax / 微生物免疫 / 免费 / 英文 / 进阶 / OpenStax (Rice University)
+- [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html) — 全球物理学习者都在用的概念地图：以可点击的概念关系网络覆盖全部物理分支，查物理概念的最快路径。  
+  标签：概念地图 / 物理查询 / 经典站点 / 英文 / 进阶 / Georgia State University
 
 <a id="cat-心理与认知" name="cat-心理与认知"></a>
 
@@ -394,6 +534,20 @@
   标签：儒家元典 / 性善论 / 原文英译 / 中英 / 进阶 / 孟轲及弟子
 - [大学·中庸](https://ctext.org/da-xue/zhs) — 四书之终二章：「修身齐家治国平天下」与「致中和」的儒家心法，篇幅最短而影响最深远，CTEXT 免费阅读。  
   标签：四书 / 儒家心法 / 原文英译 / 中英 / 入门 / 曾子 / 子思（传）
+- [手册 (Enchiridion)](http://classics.mit.edu/Epictetus/epicench.html) — 斯多葛学派最凝练的行动手册：区分「可控与不可控」的原始论述，MIT 经典文库免费在线。  
+  标签：斯多葛手册 / 可控不可控 / 免费在线 / 英文 / 入门 / 爱比克泰德
+- [君主论 (The Prince)](https://www.gutenberg.org/ebooks/1232) — 政治现实主义的开山之作：「被人畏惧比被人爱戴更安全」，五百年来权力研究的元典，公版免费。  
+  标签：政治现实主义 / 权力研究 / 公版免费 / 英文 / 进阶 / 马基雅维利
+- [利维坦 (Leviathan)](https://www.gutenberg.org/ebooks/3207) — 现代政治哲学的奠基之作：社会契约与「一切人对一切人的战争」的国家理论原点，公版免费。  
+  标签：社会契约 / 国家理论 / 公版免费 / 英文 / 高级 / Thomas Hobbes
+- [政府论 (Second Treatise of Government)](https://www.gutenberg.org/ebooks/7370) — 自由主义与宪政的源头文本：生命、自由、财产权的自然权利论述，直接塑造了美国建国文献，公版免费。  
+  标签：自由主义源头 / 自然权利 / 公版免费 / 英文 / 高级 / John Locke
+- [联邦党人文集](https://www.gutenberg.org/ebooks/1404) — 美国宪法的权威注解：85 篇报纸连载论说政制的全部设计逻辑，政治学与法学研究的永恒文本，公版免费。  
+  标签：宪法注解 / 政制设计 / 公版免费 / 英文 / 高级 / Hamilton, Madison & Jay
+- [常识 (Common Sense)](https://www.gutenberg.org/ebooks/147) — 点燃一场革命的小册子：五十页改变美国历史的政治论辩，印刷量与影响力远超其篇幅，公版免费。  
+  标签：改变历史 / 五十页雄文 / 公版免费 / 英文 / 入门 / Thomas Paine
+- [周易 (I Ching)](https://ctext.org/book-of-changes/zhs) — 群经之首：阴阳变易的符号系统影响东亚思想三千年，CTEXT 提供原文英译免费阅读。  
+  标签：群经之首 / 阴阳变易 / 原文英译 / 中英 / 高级 / 周代卜官（辑）
 
 <a id="cat-文学与人文" name="cat-文学与人文"></a>
 
@@ -475,6 +629,84 @@
   标签：永不长大 / 文化原型 / 公版免费 / 英文 / 入门 / J.M. Barrie
 - [瓦尔登湖 (Walden)](https://www.gutenberg.org/ebooks/205) — 极简生活的思想源头：湖畔独居两年的自省实录，「简朴、简朴、再简朴」影响全球无数人的生活方式，公版免费。  
   标签：极简主义源头 / 自然文学 / 公版免费 / 英文 / 进阶 / Henry David Thoreau
+- [绿野仙踪](https://www.gutenberg.org/ebooks/55) — 美国本土童话的开山之作：翡翠城与黄砖路成为文化原型，古腾堡 ebook 55，公版免费。  
+  标签：美国童话 / 文化原型 / 公版免费 / 英文 / 入门 / L. Frank Baum
+- [绿山墙的安妮](https://www.gutenberg.org/ebooks/45) — 百年畅销的成长经典：红发安妮的乐观与想象力治愈了几代读者，公版免费。  
+  标签：成长经典 / 治愈系 / 公版免费 / 英文 / 入门 / L. M. Montgomery
+- [秘密花园](https://www.gutenberg.org/ebooks/17396) — 儿童文学的不朽经典：一座花园治愈两个孩子的生命寓言，「内向者名著书单」常客，公版免费。  
+  标签：儿童文学 / 治愈寓言 / 公版免费 / 英文 / 入门 / Frances Hodgson Burnett
+- [小妇人](https://www.gutenberg.org/ebooks/514) — 美国文学中女性成长的永恒文本：马奇家四姐妹的悲欢至今共鸣，公版免费。  
+  标签：女性成长 / 永恒文本 / 公版免费 / 英文 / 入门 / Louisa May Alcott
+- [圣诞颂歌](https://www.gutenberg.org/ebooks/46) — 「Merry Christmas」的重新发明者：斯克鲁奇的救赎塑造了现代圣诞精神，古腾堡 ebook 46，公版免费。  
+  标签：狄更斯 / 圣诞精神 / 公版免费 / 英文 / 入门 / Charles Dickens
+- [理智与情感](https://www.gutenberg.org/ebooks/161) — 奥斯汀出版第一部小说：两姐妹的婚恋对照实验，机智与情感的平衡艺术，公版免费。  
+  标签：简·奥斯汀 / 处女作 / 公版免费 / 英文 / 进阶 / Jane Austen
+- [简·爱](https://www.gutenberg.org/ebooks/1260) — 女性独立精神的文学宣言：「我们的精神是平等的」响彻一百七十年，哥特与成长小说的完美融合，公版免费。  
+  标签：女性宣言 / 哥特成长 / 公版免费 / 英文 / 进阶 / Charlotte Brontë
+- [呼啸山庄](https://www.gutenberg.org/ebooks/768) — 英国文学最猛烈的爱情悲剧：希斯克利夫的复仇与荒原的风，「爱比恨更危险」的极致书写，公版免费。  
+  标签：爱情悲剧 / 勃朗特姐妹 / 公版免费 / 英文 / 进阶 / Emily Brontë
+- [不可儿戏](https://www.gutenberg.org/ebooks/844) — 英语喜剧的巅峰之作：王尔德警句的密度之高令人窒息，「一部为正经人写的无厘头喜剧」，公版免费。  
+  标签：喜剧巅峰 / 王尔德警句 / 公版免费 / 英文 / 进阶 / Oscar Wilde
+- [黑暗的心](https://www.gutenberg.org/ebooks/219) — 现代主义的开端之作：溯流而上直抵人性深渊，《现代启示录》的原著，叙事技巧的革命，公版免费。  
+  标签：现代主义开端 / 人性深渊 / 公版免费 / 英文 / 高级 / Joseph Conrad
+- [基督山伯爵](https://www.gutenberg.org/ebooks/1184) — 史上最完美的通俗小说：复仇爽文鼻祖，一千五百页全程高能，「人类说不完的故事」，公版免费。  
+  标签：复仇爽文鼻祖 / 全程高能 / 公版免费 / 英文 / 进阶 / Alexandre Dumas
+- [三个火枪手](https://www.gutenberg.org/ebooks/1257) — 「人人为我，我为人人」：侠义与权谋齐飞的历史冒险经典，公版免费。  
+  标签：侠义经典 / 历史冒险 / 公版免费 / 英文 / 进阶 / Alexandre Dumas
+- [海底两万里](https://www.gutenberg.org/ebooks/164) — 科幻硬核传统的起点：鹦鹉螺号与尼摩船长，凡尔纳预言了整个世纪的海洋科技，公版免费。  
+  标签：科幻硬核 / 凡尔纳 / 公版免费 / 英文 / 入门 / Jules Verne
+- [八十天环游地球](https://www.gutenberg.org/ebooks/103) — 技术与冒险的完美赌局：福格先生的八十天赌约，节奏拿捏两百年来无出其右，公版免费。  
+  标签：冒险赌局 / 节奏大师 / 公版免费 / 英文 / 入门 / Jules Verne
+- [巴斯克维尔的猎犬](https://www.gutenberg.org/ebooks/2852) — 福尔摩斯最长也最阴森的案件：荒原魔犬与哥特悬疑的完美结合，侦探小说类型的巅峰之作，公版免费。  
+  标签：福尔摩斯 / 哥特悬疑 / 公版免费 / 英文 / 入门 / Arthur Conan Doyle
+- [丛林之书](https://www.gutenberg.org/ebooks/236) — 狼孩毛格利的丛林法则：影响了全世界童年的动物史诗，公版免费。  
+  标签：动物史诗 / 狼孩传说 / 公版免费 / 英文 / 入门 / Rudyard Kipling
+- [红字](https://www.gutenberg.org/ebooks/25344) — 美国浪漫主义文学的开山之作：一个字母的耻辱与救赎，清教社会的心理解剖，公版免费。  
+  标签：美国文学开端 / 耻辱救赎 / 公版免费 / 英文 / 进阶 / Nathaniel Hawthorne
+- [老实人](https://www.gutenberg.org/ebooks/19942) — 启蒙运动的讽刺利剑：「一切都是最好的安排」被伏尔泰用九十章荒诞旅行砸得粉碎，公版免费。  
+  标签：启蒙讽刺 / 荒诞旅行 / 公版免费 / 英文 / 进阶 / Voltaire
+- [格列佛游记](https://www.gutenberg.org/ebooks/829) — 小人国与大人国之外：一部被误当童话的政治讽刺杰作，斯威夫特的锋利至今扎人，公版免费。  
+  标签：政治讽刺 / 被误读的童话 / 公版免费 / 英文 / 进阶 / Jonathan Swift
+- [鲁滨逊漂流记](https://www.gutenberg.org/ebooks/521) — 英国小说的开山之作：一个人的荒岛文明重建史，个人主义叙事的原点，公版免费。  
+  标签：英国小说开端 / 荒岛重建 / 公版免费 / 英文 / 入门 / Daniel Defoe
+- [天路历程](https://www.gutenberg.org/ebooks/131) — 除圣经外三百年间最畅销的英语书：基督徒奔走天路的寓意之旅，英语文学的想象力丰碑，公版免费。  
+  标签：寓意之旅 / 三百年畅销 / 公版免费 / 英文 / 进阶 / John Bunyan
+- [米德尔马契](https://www.gutenberg.org/ebooks/145) — 伍尔夫认证「专写成年人的英语小说之首」：一座小镇的社会解剖，理想主义者在婚姻与社会中的落点，公版免费。  
+  标签：成年人的小说 / 社会解剖 / 公版免费 / 英文 / 高级 / George Eliot
+- [雾都孤儿](https://www.gutenberg.org/ebooks/730) — 狄更斯社会批判的成名之作：济贫院与伦敦底层的真实图景，「再要一碗」成为文学史名场面，公版免费。  
+  标签：社会批判 / 伦敦底层 / 公版免费 / 英文 / 进阶 / Charles Dickens
+- [大卫·科波菲尔](https://www.gutenberg.org/ebooks/766) — 狄更斯「心中最宠爱的孩子」：半自传体的成长史诗，人物群像之丰庶几无出其右，公版免费。  
+  标签：半自传史诗 / 人物长卷 / 公版免费 / 英文 / 进阶 / Charles Dickens
+- [远大前程](https://www.gutenberg.org/ebooks/1400) — 狄更斯艺术最成熟的小说：皮普的阶级幻想与幻灭，「远大前程」四个字即是反讽，公版免费。  
+  标签：艺术巅峰 / 阶级幻灭 / 公版免费 / 英文 / 进阶 / Charles Dickens
+- [黄色墙纸](https://www.gutenberg.org/ebooks/1952) — 女性主义文学的开路之作：六千字的心理恐怖直击禁锢女性的「治疗」，短小而震撼，公版免费。  
+  标签：女性主义 / 心理恐怖 / 公版免费 / 英文 / 进阶 / Charlotte Perkins Gilman
+- [弗雷德里克·道格拉斯自述](https://www.gutenberg.org/ebooks/23) — 美国废奴运动的文学丰碑：从奴隶到演说家的亲历自述，古腾堡 ebook 23，美国史的必读一手文献，公版免费。  
+  标签：废奴丰碑 / 一手文献 / 公版免费 / 英文 / 进阶 / Frederick Douglass
+- [黑人的灵魂](https://www.gutenberg.org/ebooks/408) — 二十世纪美国思想的原点之一：「双重意识」概念的出处，社会学与散文艺术的合体，公版免费。  
+  标签：双重意识 / 思想原点 / 公版免费 / 英文 / 高级 / W.E.B. Du Bois
+- [聊斋志异](https://zh.wikisource.org/wiki/聊齋志異) — 中国文言短篇小说的巅峰：花妖狐魅比人更有情，「写鬼写妖高人一等」，维基文库免费。  
+  标签：文言短篇巅峰 / 花妖狐魅 / 免费 / 中文 / 进阶 / 蒲松龄
+- [儒林外史](https://zh.wikisource.org/wiki/儒林外史) — 中国讽刺文学的巅峰：范进中举与儒林众生的辛辣白描，直接启发《围城》一脉，维基文库免费。  
+  标签：讽刺文学巅峰 / 范进中举 / 免费 / 中文 / 进阶 / 吴敬梓
+- [睡谷传说](https://www.gutenberg.org/ebooks/41) — 美国本土文学的第一个传奇：无头骑士的夜路，美国短篇故事的起点，公版免费。  
+  标签：美国传奇起点 / 无头骑士 / 公版免费 / 英文 / 入门 / Washington Irving
+- [柳林风声](https://www.gutenberg.org/ebooks/289) — 英国田园童话的巅峰：河鼠、鼹鼠与癞蛤蟆的河岸生活，《魔戒》作者托尔金的最爱之一，公版免费。  
+  标签：田园童话 / 河岸生活 / 公版免费 / 英文 / 入门 / Kenneth Grahame
+- [安徒生童话](https://www.gutenberg.org/ebooks/1597) — 卖火柴的小女孩与丑小鸭：世界童话文学的皇冠，英语权威译本公版免费。  
+  标签：世界童话皇冠 / 丑小鸭 / 公版免费 / 英文 / 入门 / Hans Christian Andersen
+- [化身博士](https://www.gutenberg.org/ebooks/43) — 「Jekyll 与 Hyde」进入人类语言：人格分裂叙事的原点，对人性双面性的永恒寓言，公版免费。  
+  标签：双重人格 / 语言贡献者 / 公版免费 / 英文 / 入门 / Robert Louis Stevenson
+- [世界大战](https://www.gutenberg.org/ebooks/36) — 外星入侵题材的发明者：火星人践踏英伦引发的技术恐慌，科幻社会学的开山，公版免费。  
+  标签：外星入侵鼻祖 / 科幻社会学 / 公版免费 / 英文 / 入门 / H.G. Wells
+- [隐形人](https://www.gutenberg.org/ebooks/5230) — 「隐形」科幻母题的源头：获得隐身能力的天才如何走向疯狂，科学伦理的早期追问，公版免费。  
+  标签：隐形母题 / 科学伦理 / 公版免费 / 英文 / 入门 / H.G. Wells
+- [莫洛博士岛](https://www.gutenberg.org/ebooks/159) — 生物改造科幻的始祖：活体改造兽人的恐怖岛，追问「造物的边界」，比基因编辑早了一百年，公版免费。  
+  标签：生物科幻始祖 / 造物边界 / 公版免费 / 英文 / 入门 / H.G. Wells
+- [原来如此的故事](https://www.gutenberg.org/ebooks/2781) — 大象的鼻子为什么长：充满父爱与想象力的起源故事集，英语儿童文学的经典，公版免费。  
+  标签：起源故事 / 父爱之作 / 公版免费 / 英文 / 入门 / Rudyard Kipling
+- [都柏林人](https://www.gutenberg.org/ebooks/2814) — 短篇集的艺术巅峰：十五个「精神顿悟」时刻写尽一座城市，「死者」被誉为英语最完美的短篇，公版免费。  
+  标签：短篇巅峰 / 精神顿悟 / 公版免费 / 英文 / 高级 / James Joyce
 
 <a id="cat-经济与商业" name="cat-经济与商业"></a>
 
@@ -500,6 +732,14 @@
   标签：免费课程 / 视频体系 / 名家创办 / 英文 / 入门 / Tyler Cowen & Alex Tabarrok
 - [巴菲特致股东信](https://www.berkshirehathaway.com/letters/letters.html) — 被巴菲特本人认可的唯一「著作」：六十余年致股东信免费公开，价值投资与商业智慧的活教材，全球投资者的圣经。  
   标签：巴菲特亲笔 / 价值投资 / 官方免费 / 英文 / 进阶 / Warren Buffett
+- [人口原理](https://www.gutenberg.org/ebooks/4239) — 改变经济学与生物学的名著：人口几何级增长的悲观预言直接启发达尔文「自然选择」，公版免费。  
+  标签：启发达尔文 / 人口预言 / 公版免费 / 英文 / 高级 / Thomas Robert Malthus
+- [有闲阶级论](https://www.gutenberg.org/ebooks/833) — 「炫耀性消费」概念的出处：用锋利的笔解剖财富与地位的社会学经典，一百多年后反而更应景，公版免费。  
+  标签：炫耀性消费 / 社会解剖 / 公版免费 / 英文 / 高级 / Thorstein Veblen
+- [The Almanack of Naval Ravikant](https://www.navalmanack.com) — 硅谷天使投资人「财富与幸福」智慧的官方免费合集：关于杠杆、专长与心态的现代箴言集，官方开放电子版。  
+  标签：硅谷智慧 / 官方免费 / 财富与幸福 / 英文 / 入门 / Eric Jorgenson 编
+- [穷查理宝典（在线版）](https://www.poorcharliesalmanack.com) — 芒格多元思维模型的集合：Stripe 制作的官方在线版免费开放，投资与决策心理学的传世读本。  
+  标签：芒格 / 多元思维 / 官方在线版 / 英文 / 进阶 / Charlie Munger
 
 
 ---
