@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[开源书籍宝库](https://soycodetrail.top/books)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-31 01:24:45
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-31 01:33:58
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,14 +12,20 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（55 个条目 / 6 个分类）
+## 📑 内容导航（101 个条目 / 12 个分类）
 
 - [🤖 AI Agent](#cat-ai-agent)
 - [🧠 大模型 LLM](#cat-大模型-llm)
-- [📐 深度学习 / 机器学习](#cat-深度学习-机器学习)
+- [📊 深度学习 / 机器学习](#cat-深度学习-机器学习)
 - [💻 编程语言](#cat-编程语言)
 - [🏛️ 计算机核心](#cat-计算机核心)
 - [⚙️ 工程实践](#cat-工程实践)
+- [🔢 数学](#cat-数学)
+- [🔬 科学通识](#cat-科学通识)
+- [💭 心理与认知](#cat-心理与认知)
+- [☯️ 哲学与思想](#cat-哲学与思想)
+- [📖 文学与人文](#cat-文学与人文)
+- [💼 经济与商业](#cat-经济与商业)
 
 ---
 
@@ -66,13 +72,15 @@
   标签：图解风格 / 配套 Notebook / O'Reilly / 英文 / 进阶 / Jay Alammar & Maarten Grootendorst
 - [Prompt Engineering Techniques](https://github.com/NirDiamant/prompt_engineering) — 数十个提示工程技术 Notebook 合集：零样本、思维链、自洽性、ReAct 到最新推理时扩展技术，每个都配可运行示例与原理讲解。  
   标签：Notebook 合集 / 技术对照 / 实战导向 / 英文 / 进阶 / Nir Diamant
-- [Speech and Language Processing (3rd ed.)](https://web.stanford.edu/~jurafsky/slp3/) — 斯坦福 NLP 圣经教材第三版草稿免费在线开放：从 n-gram 到 Transformer 与大语言模型，NLP 领域引用量最高的教科书。  
-  标签：斯坦福教材 / NLP 圣经 / 免费草稿 / 英文 / 高级 / Dan Jurafsky & James H. Martin
 
 <a id="cat-深度学习-机器学习" name="cat-深度学习-机器学习"></a>
 
-### 📐 深度学习 / 机器学习
+### 📊 深度学习 / 机器学习
 
+- [Speech and Language Processing (3rd ed.)](https://web.stanford.edu/~jurafsky/slp3/) — 斯坦福 NLP 圣经教材第三版草稿免费在线开放：从 n-gram 到 Transformer 与大语言模型，NLP 领域引用量最高的教科书。  
+  标签：斯坦福教材 / NLP 圣经 / 免费草稿 / 英文 / 高级 / Dan Jurafsky & James H. Martin
+- [An Introduction to Statistical Learning (ISL)](https://www.statlearning.com) — 统计学习入门的世界标准教材：官方免费提供全书 PDF 与 R/Python 习题，被誉为机器学习入门的最佳第一本书。  
+  标签：官方免费 PDF / 统计学习 / 入门首选 / 英文 / 入门 / Gareth James 等 (Stanford)
 - [动手学深度学习 (Dive into Deep Learning)](https://zh.d2l.ai) — 中文世界影响力最大的深度学习开源教材：理论与可运行代码一一对应，覆盖 CV、NLP、优化与分布式，全球 500+ 所大学采用。  
   标签：李沐 / 中文经典 / 代码即教材 / 中文 / 进阶 / 李沐 & Aston Zhang 等
 - [Dive into Deep Learning (English)](https://d2l.ai) — 《动手学深度学习》英文原版：PyTorch / TensorFlow / JAX 三框架代码并存，Cambridge Press 出版的交互式教科书。  
@@ -162,6 +170,126 @@
   标签：Code Review / 官方指南 / 短小精悍 / 英文 / 进阶 / Google
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org) — 免费开源的技术面试全流程手册：简历、行为面、算法准备到 offer 谈判，配套 Grind 75 题单，全球求职者口碑之选。  
   标签：求职面试 / Grind 75 / 免费开源 / 英文 / 进阶 / Yangshun Tay
+
+<a id="cat-数学" name="cat-数学"></a>
+
+### 🔢 数学
+
+- [Calculus Made Easy](https://www.gutenberg.org/ebooks/33283) — 写于 1910 年却被爱因斯坦推荐的微积分神书：把微积分讲得像游戏一样简单，经 Martin Gardner 增订后成为百年经典，公版免费。  
+  标签：百年经典 / 公版免费 / 微积分入门 / 英文 / 入门 / Silvanus P. Thompson
+- [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) — 北美高校广泛采用的「数学证明入门」免费教材：集合、逻辑、归纳法到证明策略，从计算数学过渡到严谨数学的第一本书。  
+  标签：证明入门 / 高校教材 / 官方免费 / 英文 / 进阶 / Richard Hammack
+- [Paul's Online Math Notes](https://tutorial.math.lamar.edu) — 被全球学生拯救过无数次的数学笔记站：代数、微积分 I-III、常微分方程全套讲义与习题答案，清晰程度超过多数教科书。  
+  标签：全套讲义 / 含习题答案 / 口碑爆棚 / 英文 / 入门 / Paul Dawkins (Lamar University)
+- [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/) — MIT 传奇教授 Strang 的微积分教材官方免费开放：2019 年新版强调「微积分是线性代数的近亲」，配套 MIT OCW 公开课。  
+  标签：MIT 教材 / 官方免费 / 配套公开课 / 英文 / 进阶 / Gilbert Strang (MIT)
+- [沉浸式线性代数 (Immersive Math)](http://immersivemath.com/ila/index.html) — 全球第一本「可交互图解」线性代数书：向量、矩阵变换全部可以拖动演示，直观理解线性代数的最佳在线读物。  
+  标签：可交互图解 / 直观理解 / 免费在线 / 英文 / 入门 / Jacob Ström 等
+- [Linear Algebra](https://hefferon.net/linearalgebra/) — 圣迈克尔大学教授编写的开源线性代数教材：从线性方程组讲到特征值与 Jordan 型，配完整习题与答案，被数百所大学采用。  
+  标签：开源教材 / 习题完备 / 大学采用 / 英文 / 进阶 / Jim Hefferon
+- [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi3.html) — 离散数学优秀开源教材：逻辑、图论、计数与递归，习题分层设计，适合计算机专业学生打牢离散基础。  
+  标签：开源教材 / 图论计数 / CS 基础 / 英文 / 进阶 / Oscar Levin
+- [Seeing Theory](https://seeing-theory.brown.edu) — 布朗大学出品的可视化概率统计教程：用可交互的视觉实验讲懂分布、中心极限定理与贝叶斯推断，统计直觉训练神器。  
+  标签：可视化教程 / 概率统计 / 名校出品 / 英文 / 入门 / Brown University
+
+<a id="cat-科学通识" name="cat-科学通识"></a>
+
+### 🔬 科学通识
+
+- [费曼物理学讲义 (The Feynman Lectures on Physics)](https://www.feynmanlectures.caltech.edu) — 物理学史上最著名的大众-大学讲义：Caltech 官方将全书三卷免费上线，费曼用无与伦比的直觉讲力学、电磁学与量子力学。  
+  标签：物理圣经 / 官方免费 / 费曼 / 英文 / 高级 / Richard P. Feynman
+- [University Physics](https://openstax.org/details/books/university-physics-volume-1-2e) — 赖斯大学 OpenStax 出品的大学物理教材：力学、热学、电磁学、光学到近代物理三卷全免费，全球数千所高校正式采用。  
+  标签：OpenStax / 高校采用 / 全免费 / 英文 / 进阶 / OpenStax (Rice University)
+- [Chemistry 2e](https://openstax.org/details/books/chemistry-2e) — OpenStax 化学教材第二版：原子结构、化学键、热力学与动力学全体系覆盖，配交互习题，普通化学课程的免费标准书。  
+  标签：OpenStax / 普通化学 / 全免费 / 英文 / 进阶 / OpenStax (Rice University)
+- [Biology 2e](https://openstax.org/details/books/biology-2e) — OpenStax 生物教材第二版：从细胞、遗传到进化与生态全覆盖，配大量插图与习题，北美大学生物入门课的免费主流教材。  
+  标签：OpenStax / 细胞遗传 / 全免费 / 英文 / 入门 / OpenStax (Rice University)
+- [Astronomy 2e](https://openstax.org/details/books/astronomy-2e) — OpenStax 天文学教材：从裸眼观星、太阳系到星系与宇宙学，插图精美、零基础可读，天文爱好者最友好的系统教材。  
+  标签：OpenStax / 天文入门 / 插图精美 / 英文 / 入门 / OpenStax (Rice University)
+- [物种起源 (On the Origin of Species)](https://www.gutenberg.org/ebooks/1228) — 改变人类世界观的科学元典：1859 年初版全文公版免费，自然选择学说的原初论述，每个受过教育的人都该读一遍原典。  
+  标签：科学元典 / 公版免费 / 进化论 / 英文 / 进阶 / Charles Darwin
+- [相对论：狭义与广义理论](https://www.gutenberg.org/ebooks/5001) — 爱因斯坦亲自为大众写的相对论科普：1916 年德文原版公版免费，大师亲手把时空弯曲讲给普通人，科普写作的典范。  
+  标签：爱因斯坦原著 / 公版免费 / 科普典范 / 英文 / 进阶 / Albert Einstein
+- [LibreTexts 开放教材库](https://libretexts.org) — 全球最大的开放教科书计划之一：化学、物理、工程、生物等学科数百本教材免费在线，被无数课程直接用作指定教材。  
+  标签：教材库 / 数百本免费 / 多学科 / 英文 / 进阶 / UC Davis 等
+
+<a id="cat-心理与认知" name="cat-心理与认知"></a>
+
+### 💭 心理与认知
+
+- [Psychology 2e](https://openstax.org/details/books/psychology-2e) — OpenStax 心理学教材：生物基础、感知、意识、记忆、人格到社会心理全覆盖，北美大学心理学导论课的免费主流教材。  
+  标签：OpenStax / 心理学导论 / 全免费 / 英文 / 入门 / OpenStax (Rice University)
+- [Noba Psychology](https://nobaproject.com) — 由心理学教授团队撰写的免费开放教科书：模块化章节覆盖认知、发展、临床与统计，配权威讲师视频，心理学自考利器。  
+  标签：模块化教材 / 专家撰写 / 免费开放 / 英文 / 入门 / Noba Project
+- [梦的解析](https://www.gutenberg.org/ebooks/893) — 精神分析学的奠基之作：1900 年初版公版免费，潜意识理论的起点，20 世纪影响人类自我认知最深的心理学经典。  
+  标签：精神分析 / 公版免费 / 传世经典 / 英文 / 进阶 / 西格蒙德·弗洛伊德
+- [乌合之众：大众心理研究](https://www.gutenberg.org/ebooks/445) — 群体心理学的开山之作：1895 年问世至今仍是被引用最多的大众心理经典，解释群体为何「聪明人也会变愚蠢」，公版免费。  
+  标签：群体心理学 / 公版免费 / 现象级经典 / 英文 / 入门 / 古斯塔夫·勒庞
+- [心理学原理 (The Principles of Psychology)](https://www.gutenberg.org/ebooks/46332) — 美国心理学之父的百科全书式巨著：1890 年两卷本系统奠定科学心理学基础，意识流理论的源头，公版免费。  
+  标签：奠基之作 / 公版免费 / 詹姆斯 / 英文 / 高级 / William James
+- [人性论 (A Treatise of Human Nature)](https://www.gutenberg.org/ebooks/4705) — 休谟的哲学-心理学巨著：「理性是激情的奴隶」等论断深刻影响现代行为经济学与认知科学，18 世纪原版公版免费。  
+  标签：休谟 / 公版免费 / 认知科学源头 / 英文 / 高级 / David Hume
+
+<a id="cat-哲学与思想" name="cat-哲学与思想"></a>
+
+### ☯️ 哲学与思想
+
+- [斯坦福哲学百科全书 (SEP)](https://plato.stanford.edu) — 学术界公认最权威的哲学参考书：每个词条由顶级专家撰写并持续修订，免费开放，哲学研究的黄金标准。  
+  标签：学术权威 / 免费开放 / 黄金标准 / 英文 / 高级 / Stanford University
+- [互联网哲学百科全书 (IEP)](https://iep.utm.edu) — 与 SEP 齐名的免费哲学百科：词条更偏入门友好，覆盖哲学家、流派与核心概念，哲学自学的最佳检索工具。  
+  标签：免费百科 / 入门友好 / 检索工具 / 英文 / 进阶 / IEP 编委会
+- [中国哲学书电子化计划 (CTEXT)](https://ctext.org) — 全球最大的中文古籍数据库：先秦两汉典籍全部数字化并附英译，论语、道德经、庄子、史记一网打尽，学界公认的电子古籍权威。  
+  标签：古籍数字化 / 附英译 / 学界公认 / 中英 / 进阶 / Donald Sturgeon (哈佛)
+- [论语](https://ctext.org/analects/zhs) — 儒家第一经典：CTEXT 提供原文与英译对照免费阅读，两千年来塑造东亚精神世界的元典，常读常新。  
+  标签：儒家元典 / 原文英译 / 免费在线 / 中英 / 入门 / 孔子及弟子
+- [道德经](https://ctext.org/dao-de-jing/zhs) — 道家哲学的开山之作：仅五千言却影响世界两千余年，全球译本数量仅次于《圣经》，CTEXT 提供原文与英译免费阅读。  
+  标签：道家元典 / 世界影响 / 免费在线 / 中英 / 入门 / 老子
+- [沉思录 (Meditations)](https://www.gutenberg.org/ebooks/2680) — 古罗马皇帝写给自己的哲学笔记：斯多葛学派的传世代表作，温家宝与克林顿都放在床头的书，公版免费。  
+  标签：斯多葛学派 / 公版免费 / 人生哲学 / 英文 / 入门 / 马可·奥勒留
+- [理想国 (The Republic)](https://www.gutenberg.org/ebooks/1497) — 西方哲学的源头之作：正义、国家、灵魂与洞穴寓言的原始论述，两千年来一切政治哲学的对话起点，公版免费。  
+  标签：西方哲学源头 / 公版免费 / 柏拉图 / 英文 / 进阶 / 柏拉图
+
+<a id="cat-文学与人文" name="cat-文学与人文"></a>
+
+### 📖 文学与人文
+
+- [古腾堡计划 (Project Gutenberg)](https://www.gutenberg.org) — 人类历史上第一个数字图书馆：7 万+ 公版电子书全部免费下载，涵盖世界文学、历史、哲学经典，互联网最古老也最伟大的公益项目。  
+  标签：7 万+ 公版书 / 数字图书馆鼻祖 / 完全免费 / 英文 / 入门 / Michael Hart 创立
+- [Standard Ebooks](https://standardebooks.org) — 把公版名著重新精排的公益计划：排版、校对、封面全部达到商业出版水准，epub/kindle 格式免费下载，公版书最佳阅读体验。  
+  标签：精排电子书 / 出版级排版 / 免费下载 / 英文 / 入门 / Standard Ebooks 志愿者团队
+- [维基文库 (Wikisource)](https://zh.wikisource.org) — 维基家族的自由文献库：收录世界各语言公版文献全文，中文文库含四大名著、二十四史等海量典籍，自由校对持续完善。  
+  标签：海量文献 / 中文典籍 / 自由版权 / 中文 / 入门 / 维基媒体基金会
+- [古诗文网](https://www.gushiwen.cn) — 中文古诗文第一门户：从诗经楚辞到明清诗文百万篇，注释、翻译、赏析齐全，学生与爱好者的必备工具站。  
+  标签：百万诗文 / 注译赏析 / 国民工具站 / 中文 / 入门 / 古诗文网团队
+- [红楼梦](https://zh.wikisource.org/wiki/紅樓夢) — 中国古典小说巅峰：维基文库提供足本免费阅读，「中国封建社会的百科全书」，中文写作艺术的最高峰之一。  
+  标签：四大名著之首 / 免费足本 / 古典巅峰 / 中文 / 进阶 / 曹雪芹
+- [史记](https://zh.wikisource.org/wiki/史記) — 「史家之绝唱，无韵之离骚」：中国第一部纪传体通史，维基文库提供全文免费阅读，读懂中国人与中国历史的元典。  
+  标签：二十四史之首 / 免费全文 / 文史元典 / 中文 / 高级 / 司马迁
+- [资治通鉴](https://zh.wikisource.org/wiki/資治通鑑) — 中国最大编年体史书：294 卷纵贯 1362 年历史，毛泽东通读十七遍的巨著，维基文库提供全文免费阅读。  
+  标签：编年体巨著 / 免费全文 / 治国镜鉴 / 中文 / 高级 / 司马光
+- [莎士比亚全集](https://www.gutenberg.org/ebooks/100) — 英语文学的珠穆朗玛：37 部戏剧与诗歌全集公版免费，哈姆雷特、李尔王、暴风雨——人类戏剧艺术再未超越的高度。  
+  标签：英语文学巅峰 / 公版免费 / 全集 / 英文 / 进阶 / William Shakespeare
+- [傲慢与偏见 (Pride and Prejudice)](https://www.gutenberg.org/ebooks/1342) — 英语小说最受欢迎的开山之作：1813 年出版至今全球读者无数，机智的伊丽莎白与达西先生的故事，公版免费。  
+  标签：简·奥斯汀 / 公版免费 / 国民级小说 / 英文 / 入门 / Jane Austen
+- [了不起的盖茨比](https://www.gutenberg.org/ebooks/64317) — 「美国梦」的完美注脚：20 世纪美国小说的巅峰之作，1925 年出版、已进入公有领域，美国高中生的必读经典。  
+  标签：美国文学经典 / 公版免费 / 美国梦 / 英文 / 入门 / F. Scott Fitzgerald
+- [弗兰肯斯坦 (Frankenstein)](https://www.gutenberg.org/ebooks/84) — 科幻小说的开山之作：1818 年问世，人类第一次想象「造物反噬造物主」，哥特与科幻的双重源头，公版免费。  
+  标签：科幻鼻祖 / 公版免费 / 哥特经典 / 英文 / 入门 / Mary Shelley
+
+<a id="cat-经济与商业" name="cat-经济与商业"></a>
+
+### 💼 经济与商业
+
+- [The Economy](https://www.core-econ.org) — 全球顶尖经济学家联合重写的免费经济学教科书：从不平等、气候变化讲起替代传统教材，已被全球 400+ 所大学采用。  
+  标签：大学新星教材 / 免费开放 / 紧扣现实 / 英文 / 进阶 / CORE Econ (全球经济学家团队)
+- [Principles of Economics 3e](https://openstax.org/details/books/principles-economics-3e) — OpenStax 经济学原理：微观宏观二合一，案例本土化、习题配套完善，北美数百所大学采用的免费标准经济学教材。  
+  标签：OpenStax / 微观宏观 / 全免费 / 英文 / 入门 / OpenStax (Rice University)
+- [国富论 (The Wealth of Nations)](https://www.gutenberg.org/ebooks/3300) — 现代经济学的诞生之作：1776 年问世，「看不见的手」与分工理论改变了整个世界，所有经济学人的必读元典，公版免费。  
+  标签：经济学元典 / 公版免费 / 亚当·斯密 / 英文 / 高级 / Adam Smith
+- [资本论](https://www.marxists.org/chinese/index.html) — 影响世界历史进程最深的经济学著作：剩余价值理论的系统论述，中文马克思主义文库提供全三卷免费在线阅读。  
+  标签：政治经济学 / 免费全卷 / 改变历史 / 中文 / 高级 / Karl Marx
+- [马克思主义文库 (Marxists Internet Archive)](https://www.marxists.org) — 全球最大的左翼文献自由图书馆：马恩列托全集及各国思想家中译本全部免费，研究政治经济与思想史的一级资料库。  
+  标签：文献自由库 / 中英双语 / 思想史资料 / 中英 / 高级 / MIA 志愿者
 
 
 ---
