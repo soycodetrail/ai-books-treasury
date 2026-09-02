@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[开源书籍宝库](https://soycodetrail.top/books)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-02 18:10:57
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-02 18:59:18
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
