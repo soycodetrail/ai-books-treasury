@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[开源书籍宝库](https://soycodetrail.top/books)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-03 01:06:10
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-03 07:07:40
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [DeepSeek Harness 插件库](https://github.com/soycodetrail/deepseek-harness-plugins) · [主站模块 ↗](https://soycodetrail.top/dsh-plugins) · [在线浏览 ↗](https://soycodetrail.github.io/deepseek-harness-plugins/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（326 个条目 / 12 个分类）
+## 📑 内容导航（333 个条目 / 12 个分类）
 
 - [🤖 AI Agent](#cat-ai-agent)
 - [🧠 大模型 LLM](#cat-大模型-llm)
@@ -122,6 +122,18 @@
   标签：OpenAI 官方 / 策略战术 / 权威参照 / 英文 / 入门 / OpenAI
 - [HELM: Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm/) — 斯坦福基础模型研究中心的大模型评估框架：以透明、多维的指标体系评估主流模型，评估方法论的学术标杆。  
   标签：模型评估 / 学术标杆 / 透明指标 / 英文 / 高级 / Stanford CRFM
+- [self-llm：开源大模型食用指南](https://github.com/datawhalechina/self-llm) — 手把手部署与微调开源大模型的实操手册：环境配置、推理部署、LoRA 微调、量化全流程跑通，中文社区开源 LLM 入门第一站。  
+  标签：Datawhale / 微调 / 部署 / 实操 / 中文 / 进阶 / Datawhale
+- [happy-llm：从零训练大模型](https://github.com/datawhalechina/happy-llm) — 从 Transformer 手写开始到完整预训练/微调一个小型 LLM：每一步代码可跑、实验可复现，理解大模型内部原理的最佳中文实践课。  
+  标签：Datawhale / 预训练 / 手写实现 / 可复现 / 中文 / 进阶 / Datawhale
+- [so-large-llm：大模型基础](https://github.com/datawhalechina/so-large-llm) — 大模型系统化理论课：发展历程、Transformer 原理、训练技术、评估与对齐，配 happy-llm 实践食用，理论与代码双轨并进。  
+  标签：Datawhale / LLM 理论 / 体系课 / 中文 / 进阶 / Datawhale
+- [llm-universe：LLM 应用开发指南](https://github.com/datawhalechina/llm-universe) — 面向应用层的大模型开发课：Prompt 工程、RAG 检索增强、LangChain 框架、向量数据库，从调用 API 到搭出完整应用。  
+  标签：Datawhale / RAG / LangChain / 应用开发 / 中文 / 进阶 / Datawhale
+- [hugging-llm：HuggingFace 实战](https://github.com/datawhalechina/hugging-llm) — 围绕 HuggingFace 生态的中文实战教程：Transformers/Datasets/PEFT/Accelerate 全家桶用法，微调与部署自己的模型。  
+  标签：Datawhale / HuggingFace / Transformers / 实战 / 中文 / 进阶 / Datawhale
+- [LLMScience：大模型驱动的科研指南](https://github.com/datawhalechina/llm-science) — 面向科研人的 LLM 工具课：文献检索、实验设计、论文写作中的大模型用法，把 AI 变成科研生产力。  
+  标签：Datawhale / 科研 / AI 工具 / 中文 / 入门 / Datawhale
 
 <a id="cat-深度学习-机器学习" name="cat-深度学习-机器学习"></a>
 
@@ -201,6 +213,8 @@
   标签：系统设计 / 官方开源 / 面试必备 / 英文 / 高级 / Chip Huyen
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com) — 最知名的「生产级深度学习」课程：覆盖项目管理、数据、建模、部署与监控全生命周期，历年课程全部免费公开。  
   标签：工程全周期 / 免费公开 / 生产导向 / 英文 / 高级 / FSDL 团队 (UC Berkeley 等)
+- [easy-rl：动手学强化学习](https://github.com/datawhalechina/easy-rl) — 国内人气最高的 RL 中文教程：从动态规划到 DQN/PPO/SAC，理论与代码逐章对照，配套蘑菇书笔记，深度强化学习入门标配。  
+  标签：Datawhale / 强化学习 / 蘑菇书 / 代码对照 / 中文 / 进阶 / Datawhale
 
 <a id="cat-编程语言" name="cat-编程语言"></a>
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T01:06:10.581Z",
+  "updatedAt": "2026-09-03T07:07:40.698Z",
   "items": [
     {
       "name": "深入理解 AI Agent：设计原理与工程实践",
@@ -5868,6 +5868,137 @@
       "bg": "",
       "tool": "英文",
       "hot": 88
+    },
+    {
+      "name": "self-llm：开源大模型食用指南",
+      "desc": "手把手部署与微调开源大模型的实操手册：环境配置、推理部署、LoRA 微调、量化全流程跑通，中文社区开源 LLM 入门第一站。",
+      "url": "https://github.com/datawhalechina/self-llm",
+      "category": "llm",
+      "tags": [
+        "Datawhale",
+        "微调",
+        "部署",
+        "实操",
+        "中文",
+        "进阶",
+        "Datawhale"
+      ],
+      "icon": "🍽️",
+      "bg": "",
+      "tool": "中文",
+      "hot": 92
+    },
+    {
+      "name": "happy-llm：从零训练大模型",
+      "desc": "从 Transformer 手写开始到完整预训练/微调一个小型 LLM：每一步代码可跑、实验可复现，理解大模型内部原理的最佳中文实践课。",
+      "url": "https://github.com/datawhalechina/happy-llm",
+      "category": "llm",
+      "tags": [
+        "Datawhale",
+        "预训练",
+        "手写实现",
+        "可复现",
+        "中文",
+        "进阶",
+        "Datawhale"
+      ],
+      "icon": "🔧",
+      "bg": "",
+      "tool": "中文",
+      "hot": 88
+    },
+    {
+      "name": "so-large-llm：大模型基础",
+      "desc": "大模型系统化理论课：发展历程、Transformer 原理、训练技术、评估与对齐，配 happy-llm 实践食用，理论与代码双轨并进。",
+      "url": "https://github.com/datawhalechina/so-large-llm",
+      "category": "llm",
+      "tags": [
+        "Datawhale",
+        "LLM 理论",
+        "体系课",
+        "中文",
+        "进阶",
+        "Datawhale"
+      ],
+      "icon": "📚",
+      "bg": "",
+      "tool": "中文",
+      "hot": 86
+    },
+    {
+      "name": "llm-universe：LLM 应用开发指南",
+      "desc": "面向应用层的大模型开发课：Prompt 工程、RAG 检索增强、LangChain 框架、向量数据库，从调用 API 到搭出完整应用。",
+      "url": "https://github.com/datawhalechina/llm-universe",
+      "category": "llm",
+      "tags": [
+        "Datawhale",
+        "RAG",
+        "LangChain",
+        "应用开发",
+        "中文",
+        "进阶",
+        "Datawhale"
+      ],
+      "icon": "🚀",
+      "bg": "",
+      "tool": "中文",
+      "hot": 89
+    },
+    {
+      "name": "hugging-llm：HuggingFace 实战",
+      "desc": "围绕 HuggingFace 生态的中文实战教程：Transformers/Datasets/PEFT/Accelerate 全家桶用法，微调与部署自己的模型。",
+      "url": "https://github.com/datawhalechina/hugging-llm",
+      "category": "llm",
+      "tags": [
+        "Datawhale",
+        "HuggingFace",
+        "Transformers",
+        "实战",
+        "中文",
+        "进阶",
+        "Datawhale"
+      ],
+      "icon": "🤗",
+      "bg": "",
+      "tool": "中文",
+      "hot": 84
+    },
+    {
+      "name": "easy-rl：动手学强化学习",
+      "desc": "国内人气最高的 RL 中文教程：从动态规划到 DQN/PPO/SAC，理论与代码逐章对照，配套蘑菇书笔记，深度强化学习入门标配。",
+      "url": "https://github.com/datawhalechina/easy-rl",
+      "category": "dlml",
+      "tags": [
+        "Datawhale",
+        "强化学习",
+        "蘑菇书",
+        "代码对照",
+        "中文",
+        "进阶",
+        "Datawhale"
+      ],
+      "icon": "🎮",
+      "bg": "",
+      "tool": "中文",
+      "hot": 93
+    },
+    {
+      "name": "LLMScience：大模型驱动的科研指南",
+      "desc": "面向科研人的 LLM 工具课：文献检索、实验设计、论文写作中的大模型用法，把 AI 变成科研生产力。",
+      "url": "https://github.com/datawhalechina/llm-science",
+      "category": "llm",
+      "tags": [
+        "Datawhale",
+        "科研",
+        "AI 工具",
+        "中文",
+        "入门",
+        "Datawhale"
+      ],
+      "icon": "🔬",
+      "bg": "",
+      "tool": "中文",
+      "hot": 80
     }
   ],
   "categories": [
